@@ -1,0 +1,5132 @@
+Guashan 5
+1.0
+
+normal
+179/215
+2
+common
+Strategist's Saber
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +1/+1.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Attach Strategist&#8217;s Saber to target creature you control.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>
+
+
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+196/215
+0
+basic land
+GUA Plains 1
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Andrzej Dybowski
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+197/215
+0
+basic land
+GUA Plains 2
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Yi De
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+198/215
+0
+basic land
+GUA Plains 3
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Bigball Gao
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+199/215
+0
+basic land
+GUA Plains 4
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Lewis Liu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+200/215
+0
+basic land
+GUA Island 1
+blue, land
+
+Basic Land — Island 
+
+
+
+
+Bigball Gao
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+201/215
+0
+basic land
+GUA Island 2
+blue, land
+
+Basic Land — Island 
+
+
+
+
+Amit Nitore
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+202/215
+0
+basic land
+GUA Island 3
+blue, land
+
+Basic Land — Island 
+
+
+
+
+Xudong Gu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+203/215
+0
+basic land
+GUA Island 4
+blue, land
+
+Basic Land — Island 
+
+
+
+
+Zhang Hui
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+204/215
+0
+basic land
+GUA Swamp 1
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+Bruce Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+205/215
+0
+basic land
+GUA Swamp 2
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+&#19977;&#21472;&#33394; Size
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+206/215
+0
+basic land
+GUA Swamp 3
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+Bruce Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+207/215
+0
+basic land
+GUA Swamp 4
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+Nemo Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+208/215
+0
+basic land
+GUA Mountain 1
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+Xudong Gu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+209/215
+0
+basic land
+GUA Mountain 2
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+Yanchong Lim
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+210/215
+0
+basic land
+GUA Mountain 3
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+Valentina Phillips
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+211/215
+0
+basic land
+GUA Mountain 4
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+Dongbiao Lu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+212/215
+0
+basic land
+GUA Forest 1
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Geng Kun
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+213/215
+0
+basic land
+GUA Forest 2
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Carter Adair
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+214/215
+0
+basic land
+GUA Forest 3
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Zhang Hui
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+215/215
+0
+basic land
+GUA Forest 4
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Vivian Wu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+184/215
+0
+common
+Cloud Scheduling Bureau
+white, land
+
+Land
+
+
+Cloud Scheduling Bureau enters the battlefield tapped with a mandate counter.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Remove a mandate counter from Cloud Scheduling Bureau: Put a step counter on target Path.
+
+G Liulian
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+190/215
+0
+common
+Heavenly Abundance Service
+green, land
+
+Land
+
+
+Heavenly Abundance Service enters the battlefield tapped with a mandate counter.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Remove a mandate counter from Heavenly Abundance Service: Put a step counter on target Path.
+
+Wang Nan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+186/215
+0
+common
+Fortune Distribution Office
+blue, land
+
+Land
+
+
+Fortune Distribution Office enters the battlefield tapped with a mandate counter.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Remove a mandate counter from Fortune Distribution Office: Put a step counter on target Path.
+
+G Liulian
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+182/215
+0
+common
+Calamity Logistics Authority
+red, land
+
+Land
+
+
+Calamity Logistics Authority enters the battlefield tapped with a mandate counter.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Remove a mandate counter from Calamity Logistics Authority: Put a step counter on target Path.
+
+Zet Lee
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+191/215
+0
+common
+Internal Devil Affairs
+black, land
+
+Land
+
+
+Internal Devil Affairs enters the battlefield tapped with a mandate counter.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Remove a mandate counter from Internal Devil Affairs: Put a step counter on target Path.
+
+Yangyang Sui
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+18/215
+4
+common
+Qinzai Cloudchaser
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Cat Bird 
+2
+2
+Flying, first strike<br>///br///Whenever Qinzai Cloudchaser attacks, target attacking creature gains flying and first strike until end of turn.
+
+RJ Palmer
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+22/215
+2
+common
+Storm Cultivation
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature has flying.<br>///br///Whenever you cast a noncreature spell, put a +1/+1 counter on enchanted creature. This ability triggers only once each turn.
+
+CAO KE
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+1/8
+0
+common
+GUA Bird
+white
+
+Token Creature — Bird 
+1
+1
+Flying
+
+Jeszika Le Vye
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+3/8
+0
+common
+GUA Monk
+white
+
+Token Creature — Monk 
+1
+1
+
+
+Le Long
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+4/8
+0
+common
+GUA Spirit
+white
+
+Token Creature — Spirit 
+1
+1
+Flying
+
+Yingyi Xsu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+19/215
+2
+common
+Qinzai Halberdier
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Soldier 
+1
+1
+First strike<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Potential 2. <i>(If this permanent has fewer than two +1/+1 counters on it, put a +1/+1 counter on it.)</i>
+
+Wenjun Lin
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+29/215
+2
+common
+Wushu Swordsman
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Warrior 
+2
+2
+Lifelink<br>///br///Inherit <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Oviya Vendan
+Swordsman’s Spirit
+white
+
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +1/+1 and has flying and lifelink.<br>///br///If Swordsman&#8217;s Spirit would leave the battlefield, exile it instead.
+
+Yang Qi
+===========
+normal
+25/215
+2
+common
+Tiger Shifu
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Cat Advisor 
+2
+1
+Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on another target creature.
+<i>Five sacred animals teach the five original fighting arts: Tiger, Crane, Viper, Dragon, and Spider.</i>
+Cosmin Hrincu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+4/215
+4
+common
+Celestial Recruits
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Create two 1/1 white Monk creature tokens. Creatures you control get +1/+1 until end of turn.
+
+Fang Xinyu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+20/215
+1
+common
+Sealkeeper
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+1
+1
+<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, Sacrifice Sealkeeper: Destroy target enchantment.
+<i>He wore no silk, nor gold nor jade.<br>///br///&#8212; The One-Sandal Monk, Tales</i>
+Cheng Li
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+28/215
+3
+common
+Vanara Guide
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Ape Monk 
+2
+3
+Traveler&#8212;Road to Daoling City <i>(When this enters the battlefield, create Road to Daoling City. Then put a step counter on a path you control.)</i><br>///br///Whenever Vanara Guide attacks, you may tap target creature.
+
+Tianhua Xu
+Road to Daoling City
+white
+
+Enchantment — Path 
+
+
+Whenever a land enters the battlefield under your control, put a step counter on Road to Daoling City.<br>///br///[3]: Create two 1/1 white Monk creature tokens. Sacrifice Road to Daoling City.<br>///br///
+
+SiewHong Lum
+===========
+double
+31/215
+3
+common
+Xiyin Monk
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Monk 
+3
+3
+Xiyin Monk can&#8217;t attack unless you control an enchantment.<br>///br///Inherit <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Jian Guo
+Monk’s Vows
+white
+
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature can&#8217;t attack.<br>///br///If Monk&#8217;s Vows would leave the battlefield, exile it instead.
+
+Marco Espinosa
+===========
+double
+6/215
+3
+common
+Daoling Falconer
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Scout 
+2
+2
+Traveler&#8212;Road to Daoling City <i>(When this enters the battlefield, create Road to Daoling City. Then put a step counter on a path you control.)</i><br>///br///When Daoling Falconer enters the battlefield, create a 1/1 white Bird creature token with flying.
+
+Ningbo Jiang
+Road to Daoling City
+white
+
+Enchantment — Path 
+
+
+Whenever a land enters the battlefield under your control, put a step counter on Road to Daoling City.<br>///br///[3]: Create two 1/1 white Monk creature tokens. Sacrifice Road to Daoling City.<br>///br///
+
+SiewHong Lum
+===========
+normal
+17/215
+5
+common
+Qilin Advisor
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Kirin Advisor 
+3
+3
+Flying, vigilance<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Potential 2. <i>(If this permanent has fewer than two +1/+1 counters on it, put a +1/+1 counter on it.)</i>
+
+Xiaodi Jin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+13/215
+5
+common
+Lonely Herbalist
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Alchemist 
+3
+3
+Lifelink<br>///br///When Lonely Herbalist enters the battlefield, choose one&#8212;<br>///br///<b>&#8226; </b>You gain 3 life.<br>///br///<b>&#8226; </b>Put a step counter on a Path you control.
+
+Star Academy
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+1/215
+3
+common
+Beckon Through Gates
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Exile target creature. Its controller gains life equal to its toughness.
+<i>Who knows what happens to those who follow?</i>
+Sung Choi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+27/215
+2
+common
+Trained Together
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Untap up to two target creatures you control. They get +1/+2 until end of turn.
+
+Shawn Chen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+8/215
+5
+common
+Eagle Claw Training
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Flash<br>///br///Enchant creature<br>///br///When Eagle Claw Training enters the battlefield, enchanted creature gains first strike until end of turn.<br>///br///Enchanted creature gets +2/+2.
+
+Scott Shi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+14/215
+3
+common
+Martial Brotherhood
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Up to two target creatures each get +2/+2 and gain lifelink until end of turn.
+
+Donfoo .
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+23/215
+4
+common
+Summoned to Court
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Put target creature, planeswalker, or enchantment into its owner&#8217;s library second from the top.
+<i>Expression meaning, &#8220;Sent on a lengthy and fruitless errand.&#8221;</i>
+super seal
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+26/215
+2
+common
+Tiger Style
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Choose two &#8212;<br>///br///&#8226; Target creature gains first strike until end of turn.<br>///br///&#8226; Target creature gets +1/+1 until end of turn.<br>///br///&#8226; Draw a card.
+
+Senfeng Chen
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+82/215
+3
+common
+Masked Examiner
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire Advisor 
+2
+1
+Traveler&#8212;Midnight Encounter <i>(When this enters the battlefield, create Midnight Encounter. Then put a step counter on a path you control.)</i><br>///br///Lifelink
+
+Qistina Khalidah
+Midnight Encounter
+black
+
+Enchantment — Path 
+
+
+Whenever you pay or gain life, put a step counter on Midnight Encounter.<br>///br///[3]: Midnight Encounter gains &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Sacrifice this Path: Target creature gets -3/-3 until end of turn.&#8221;<br>///br///
+
+Bin X
+===========
+normal
+86/215
+1
+common
+Professional Mourner
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Shaman 
+1
+1
+Flash<br>///br///Whenever another creature dies, you gain 1 life.
+<i>Grief for five pieces of silver.</i>
+Ping He
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+90/215
+3
+common
+Shen Slayer
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Shaman 
+1
+3
+Menace<br>///br///Whenever you cast a noncreature spell during your main phase, Shen Slayer gets +2/+0 until end of turn.
+
+Leos Ng
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+84/215
+2
+common
+Nanhai Assassin
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Assassin 
+1
+2
+Deathtouch<br>///br///Whenever you cast a noncreature spell during your main phase, Nanhai Assassin gets +1/+1 until end of turn.
+<i>There are no assassins in Nanhai. There are no assassins in Nanhai.</i>
+Ina Wong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+65/215
+4
+common
+Cackling Heiress
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Zombie Spirit 
+2
+2
+Flying, haste<br>///br///When Cackling Heiress enters the battlefield, if you paid or gained life this turn, create a tapped 2/2 black Zombie creature token.
+
+Fenghua Zhong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+77/215
+6
+common
+Heedless Conjuress
+black
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Shaman 
+3
+3
+Whenever you cast a noncreature spell during your main phase, choose one &#8212;<br>///br///<b>&#8226; </b>Each opponent loses 2 life and you gain 2 life.<br>///br///<b>&#8226; </b> Put a step counter on target Path you control.
+
+Vu Nguyen
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+96/215
+5
+common
+Yama Minister
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon Warrior 
+4
+4
+Traveler&#8212;Midnight Encounter <i>(When this enters the battlefield, create Midnight Encounter. Then put a step counter on a path you control.)</i><br>///br///Yama Minister can&#8217;t be blocked by creatures with power 2 or less.
+
+A Zhi
+Midnight Encounter
+black
+
+Enchantment — Path 
+
+
+Whenever you pay or gain life, put a step counter on Midnight Encounter.<br>///br///[3]: Midnight Encounter gains &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Sacrifice this Path: Target creature gets -3/-3 until end of turn.&#8221;<br>///br///
+
+Bin X
+===========
+double
+67/215
+2
+common
+Corrupt Minister
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Advisor 
+2
+1
+Inherit <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Xiangxiang Lu
+Ill-Gotten Promotion
+black
+
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +2/+1.<br>///br///If Ill-Gotten Promotion would leave the battlefield, exile it instead.
+
+Yif Xie
+===========
+normal
+73/215
+2
+common
+Flesh Alchemist
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon Alchemist 
+2
+2
+<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Potential 2. <i>(If this permanent has fewer than two +1/+1 counters on it, put a +1/+1 counter on it.)</i>
+
+Bonhotal William
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+94/215
+4
+common
+Widowhunter
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire 
+3
+2
+<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Pay 2 life: Widowhunter gains flying and indestructible until end of turn. Activate only as a sorcery.
+
+Brian Valeza
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+6/8
+0
+common
+GUA Zombie
+black
+
+Token Creature — Zombie 
+1
+1
+
+
+Dandzianf
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+70/215
+1
+common
+Efface
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Chant <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(If you cast this for <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, exile it as it resolves. Whenever a creature you control deals combat damage to a player, you may cast it from exile without paying its mana cost.)</i><br>///br///Target creature gets -2/-2 until end of turn. Remove all counters from it.
+
+Rasmus Poulsen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+71/215
+2
+common
+Escape from Diyu
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Chant <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(If you cast this for <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, exile it as it resolves. Whenever a creature you control deals combat damage to a player, you may cast it from exile without paying its mana cost.)</i><br>///br///Return target creature card from your graveyard to your hand.
+
+Fenghua Zhong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+93/215
+2
+common
+Viper Style
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Choose two &#8212;<br>///br///<b>&#8226; </b>Target creature gains deathtouch until end of turn.<br>///br///<b>&#8226; </b>Target creature gains indestructible until end of turn.<br>///br///<b>&#8226; </b>Draw a card.
+
+Gabriel Tan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+72/215
+3
+common
+Feed the Crows
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Exile target creature with power 3 or less.
+<i>Dead criminals are left to be &#8220;buried by the crows.&#8221;</i>
+Gal Or
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+87/215
+3
+common
+Radiant Fiendish Claw
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Target creature gets +2/+2 until end of turn. Whenever a creature damaged by it this turn dies, create a tapped 2/2 black Zombie creature token.
+
+Jean JS
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+75/215
+2
+common
+Grim Maneuver
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Tap an untapped creature you control. Target opponent loses life equal to its toughness and discards a card. You gain that much life.
+
+Yiming Nie
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+83/215
+4
+common
+Music For the Departed
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Create two tapped 2/2 black Zombie creature tokens. If you own an instant or sorcery card in exile, you gain 3 life.
+
+Miyu Kiko
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+68/215
+2
+common
+Cruel Edict
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Target opponent sacrifices a creature.
+
+Wei Chang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+11/215
+3
+common
+Heavenly Nectar Harvest
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Destroy target enchantment or artifact. Put a +1/+1 counter on up to one target creature.
+
+Panda 82
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+62/215
+1
+common
+Windstep Xia
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Monk 
+1
+1
+Flying<br>///br///Inherit <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Robert Pitturru
+Windstep Technique
+blue
+
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature has flying.<br>///br///If Windstep Technique would leave the battlefield, exile it instead.
+
+Malte J. Zirbel
+===========
+double
+35/215
+2
+common
+Cloudfletch Sentinel
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Archer 
+2
+1
+Traveler&#8212;Dive Into Ruins <i>(When this enters the battlefield, create Dive Into Ruins. Then put a step counter on a path you control.)</i>
+
+Hejun Mao
+Dive Into Ruins
+blue
+
+Enchantment — Path 
+
+
+Whenever you draw a card except during your draw step, put a step counter on Dive Into Ruins.<br>///br///[3]: Dive Into Ruins gains &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Tap target creature.&#8221;<br>///br///
+
+Liang Xing
+===========
+normal
+39/215
+2
+common
+Dragonseeker Liang
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Scout 
+1
+3
+Dragonseeker Liang can&#8217;t be blocked as long as you control a Dragon.<br>///br///Whenever Dragonseeker Liang deals combat damage to a player, you may draw a card. If you do, discard a card.
+
+Russell Dongjun Lu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+44/215
+3
+common
+Four-Eyed Chiwen
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Fish Dragon 
+2
+2
+Flying<br>///br///When Four-Eyed Chiwen enters the battlefield, you may untap target creature.
+<i>The ninth son of the dragon is called &#8220;the swallower.&#8221;</i>
+Jason Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+49/215
+3
+common
+Liang Hierolune
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Shaman 
+3
+2
+Traveler&#8212;Dive Into Ruins <i>(When this enters the battlefield, create Dive Into Ruins. Then put a step counter on a path you control.)</i><br>///br///Hexproof
+
+Ameera Sheikh
+Dive Into Ruins
+blue
+
+Enchantment — Path 
+
+
+Whenever you draw a card except during your draw step, put a step counter on Dive Into Ruins.<br>///br///[3]: Dive Into Ruins gains &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Tap target creature.&#8221;<br>///br///
+
+Liang Xing
+===========
+normal
+51/215
+4
+common
+Mirrorthrower Liang
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Wizard 
+2
+3
+When Mirrorthrower Liang enters the battlefield, return target creature you don&#8217;t control to its owner&#8217;s hand.
+
+Ze Hai Liu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+59/215
+4
+common
+Torrential Baxia
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Lizard Dragon 
+2
+5
+<span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Torrential Baxia gets +1/-1 until end of turn.
+<i>The eighth son of the dragon is found under bridges and in dark places underwater.</i>
+Carlos Herrera
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+38/215
+5
+common
+Cranewing Liang
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Warrior 
+3
+3
+Flash<br>///br///Flying<br>///br///When Cranewing Liang enters the battlefield, put a step counter on target Path you control.
+
+Ho&#224;ng Lap
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+64/215
+6
+common
+Zhiwan Lurker
+blue
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Serpent 
+*
+5
+Zhiwan Lurker&#8217;s power is equal to the number of differently named lands you control.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Zhiwan Lurker can&#8217;t be blocked this turn.
+
+Kieran Daysh
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+54/215
+3
+common
+Quelling Blade
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target spell. If you own an instant or sorcery card in exile, draw a card.
+
+yingyi xsu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+58/215
+2
+common
+Sink Into Silence
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target spell unless its controller pays <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>. Scry 1.
+
+Kim Myatt
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+34/215
+3
+common
+Captivating Chord
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///When Captivating Chord enters the battlefield, tap enchanted creature.<br>///br///Enchanted creature doesn&#8217;t untap during its controller&#8217;s untap step.
+
+Barazoku @ artstation
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+56/215
+3
+common
+Scrolls of the Ages
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Draw two cards. Then exile a card from your hand unless you control an enchantment.
+
+Allan F&#233;lix Carvalho
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+61/215
+4
+common
+Waveshaping
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Creatures your opponents control get -4/-0 until end of turn. Draw a card.
+
+Darryl He
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+33/215
+1
+common
+Blackout
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Chant <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(If you cast this for <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, exile it as it resolves. Whenever a creature you control deals combat damage to a player, you may cast it from exile without paying its mana cost.)</i><br>///br///Return target creature to its owner&#8217;s hand.
+
+Wu Di &#24494;&#21338;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+37/215
+2
+common
+Crane Style
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Choose two &#8212;<br>///br///&#8226; Target creature gains flying until end of turn.<br>///br///&#8226; Tap target creature.<br>///br///&#8226; Draw a card.
+
+&#20313; &#38738;&#31310; Yu Qingying
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+41/215
+2
+common
+Eight Directions Portal
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Tap up to two target creatures. If you control an enchantment, return target creature to its owner&#8217;s hand if it&#8217;s tapped.
+
+Huy Tran Viet
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+42/215
+3
+common
+Emptiness Technique
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Target creature gets +2/+0 until end of turn. You may assign that creature&#8217;s combat damage as though it wasn&#8217;t blocked this turn. Remove each creature blocking or blocked by it from combat.
+
+Sean "Raiko" Tay
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+60/215
+4
+common
+Veiled in Light
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Flash<br>///br///Enchant creature<br>///br///When Veiled in Light enters the battlefield, scry X, where X is the number of differently named lands you control.<br>///br///Enchanted creature gets +2/+2.
+
+Jia Lu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+76/215
+3
+common
+Harsh Wisdom
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Draw a card. You may pay 2 life. If you do, mill a card, then return a card that entered your graveyard this turn to your hand.
+
+Julia Zhdanova
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+111/215
+2
+common
+Howling Pulao
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Lizard Dragon 
+2
+1
+Flying<br>///br///Howling Pulao attacks each combat if able.
+<i>The fourth son of the dragon has a voice like a bronze bell.</i>
+Remarin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+118/215
+1
+common
+Student of the Staff
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Warrior 
+2
+1
+Student of the Staff can&#8217;t block.
+<i>Hidden in the peach garden, she learned from watching the vanaras.</i>
+Ansar Ali
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+114/215
+2
+common
+Murderous Liang
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elf Warrior 
+2
+2
+Whenever you attack with creatures with total power 5 or greater, Murderous Liang gains menace until end of turn.
+
+Agung Wulandana
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+119/215
+3
+common
+Tamed Bixi
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Turtle Dragon 
+2
+2
+Trample<br>///br///Tamed Bixi gets +2/+0 as long as it&#8217;s attacking with another creature.
+<i>The sixth son of the dragon has a strong back.</i>
+Xiao Botong
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+124/215
+3
+common
+Vanara Staff Master
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Ape Monk 
+2
+2
+First strike<br>///br///Inherit <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Alex Figini
+Leaping Staff Attack
+red
+
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature has double strike.<br>///br///If Leaping Staff Attack would leave the battlefield, exile it instead.
+
+Robin Ruan
+===========
+double
+125/215
+4
+common
+Vanara Warrior
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Ape Monk 
+2
+2
+Traveler&#8212;Martial Apprenticeship <i>(When this enters the battlefield, create Martial Apprenticeship. Then put a step counter on a path you control.)</i><br>///br///Haste
+
+Carlo Nocete
+Martial Apprenticeship
+red
+
+Enchantment — Path 
+
+
+Whenever a creature you control deals combat damage to a player, put a step counter on Martial Apprenticeship.<br>///br///[3]: Martial Apprenticeship gains &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, Sacrifice Martial Apprenticeship: Put three +1/+1 counters on target creature.&#8221;<br>///br///
+
+S T
+===========
+normal
+105/215
+4
+common
+Drunken Poet
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Alchemist 
+3
+1
+When Drunken Poet enters the battlefield, you may exile a noninstant, noncreature card from your graveyard. If you do, you may cast it until the end of your next turn.
+
+Yuyu Wong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+108/215
+5
+common
+Flameshaper Ascetic
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Monk 
+3
+3
+Flameshaper Ascetic can&#8217;t be blocked by creatures with power 2 or less.<br>///br///Whenever you put a step counter on a Path, create a 1/1 red Elemental creature token.
+
+exia xiaotong
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+123/215
+2
+common
+Untested Warrior
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Warrior 
+1
+3
+Traveler&#8212;Martial Apprenticeship <i>(When this enters the battlefield, create Martial Apprenticeship. Then put a step counter on a path you control.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Untested Warrior gets +1/-1 until end of turn.
+
+Matt Forsyth
+Martial Apprenticeship
+red
+
+Enchantment — Path 
+
+
+Whenever a creature you control deals combat damage to a player, put a step counter on Martial Apprenticeship.<br>///br///[3]: Martial Apprenticeship gains &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, Sacrifice Martial Apprenticeship: Put three +1/+1 counters on target creature.&#8221;<br>///br///
+
+S T
+===========
+normal
+110/215
+5
+common
+Hermit Composer
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Musician 
+3
+3
+Whenever you attack with creatures with total power 5 or greater, Hermit Composer deals 2 damage to target opponent.
+
+Mali Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+98/215
+2
+common
+Charm Barrage
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Charm Barrage deals X damage to any target, where X is 2 plus the number of sorcery cards in your graveyard.
+
+Quyen Pham
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+100/215
+3
+common
+Crushing Fist
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Crushing Fist deals 3 damage to target creature. Destroy all Equipment attached to it.
+
+Guojie Wu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+102/215
+3
+common
+Disturb a Dragon
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+
+LeonSofi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+112/215
+4
+common
+Liu's Dragon Standard
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+At the beginning of combat on your turn, up to two target creatures gain menace and get +1/+0 until end of turn.
+
+Lewis Liu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+103/215
+2
+common
+Dragon Style
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Choose two &#8212;<br>///br///<b>&#8226; </b>Target creature gets +2/+0 until end of turn.<br>///br///<b>&#8226; </b>Target creature gains trample until end of turn.<br>///br///<b>&#8226; </b>Draw a card.
+
+Chattarin Sirisak
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+101/215
+2
+common
+Disassemble
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Destroy target artifact. If an artifact with mana value 3 or greater is destroyed in this way, draw a card.
+
+Gal Or
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+106/215
+1
+common
+Ember Whip
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Target creature gets +3/+0 and gains haste until end of turn.
+<i>Nothing offends a dragon&#8217;s dignity worse than a whip.</i>
+A Zhi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+122/215
+4
+common
+Trouble in the Teahouse
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Target creature you control skirmishes with target creature you don&#8217;t control. <i>(After this phase, you have an additional combat phase. Only skirmishing creatures may participate. Untap them.)</i><br>///br///Draw a card.
+
+Aliya Chen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+120/215
+5
+common
+Thrashing Coil Symphony
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Destroy target artifact or land. Up to one Dragon you control deals damage equal to its power to that permanent&#8217;s controller.
+
+T SWCK
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+107/215
+2
+common
+Fiery Pearl
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +2/+1.<br>///br///As long as you control a Dragon, enchanted creature has flying.
+
+exia xiaotong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+134/215
+3
+common
+Constrictor Maiden
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Wizard 
+1
+1
+Trample<br>///br///Constrictor Maiden gets +1/+1 for each differently named land you control.
+
+Lorenzo Mastroianni
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+159/215
+3
+common
+Wandering Piper
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Monk 
+3
+2
+Hexproof<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Target creature loses flying until end of turn.
+
+Rita Fei
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+137/215
+5
+common
+Ebonfang Wurm
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Wurm 
+2
+6
+Deathtouch<br>///br///<span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Pearlpencil
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+147/215
+4
+common
+Nectarbelly
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Spider 
+3
+5
+Reach<br>///br///Whenever a creature dealt damage by Nectarbelly this turn dies, you gain 3 life.
+
+Sui Yangyang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+132/215
+2
+common
+Arduous Contest
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Choose target creature you control and target creature an opponent controls. They skirmish. During that skirmish, they assign combat damage equal to their toughness rather than theit power. <i>(After this phase, you have an additional combat phase. Only skirmishing creatures may participate. Untap them.)</i>
+
+Stanton Feng
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+149/215
+3
+common
+Peacock Spring
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant land<br>///br///Enchanted land&#8217;s name is Spring.<br>///br///Enchanted land has &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add two mana of any one color.&#8221;
+
+Mukesh Singh
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+146/215
+2
+common
+Meet the Mighty
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Put a +1/+1 counter on target creature, then double the number of +1/+1 counters on it.
+
+Wei Guan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+155/215
+2
+common
+Spider Style
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Choose two &#8212;<br>///br///<b>&#8226; </b>Target creature gains reach until end of turn.<br>///br///<b>&#8226; </b>Target creature gets +2/+2 until end of turn.<br>///br///<b>&#8226; </b>Draw a card.
+
+Malcolm Wop&#233;
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+129/215
+1
+common
+Adventurous Impulse
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Look at the top three cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+Daniel Romanovsky
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+151/215
+3
+common
+Release Attachment
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Destroy target artifact or enchantment. If it was attached to a creature, you gain 4 life.
+
+Alexander Sk&#246;ld
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+150/215
+4
+common
+Rejuvenating Infusion
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +2/+2.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, Sacrifice Rejuvenating Infusion: Untap enchanted creature.
+
+Rowena Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+143/215
+2
+common
+Kueizimu Piper
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Musician 
+2
+2
+Traveler&#8212;Nourish the Masses <i>(When this enters the battlefield, create Nourish the Masses. Then put a step counter on a path you control.)</i><br>///br///Kueizimu Piper must be blocked if able.
+
+Xiao Botong
+Nourish the Masses
+green
+
+Enchantment — Path 
+
+
+Whenever a creature you control deals combat damage to a player, put a step counter on Nourish the Masses.<br>///br///[3]: Nourish the Masses gains &#8220;<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Put a +1/+1 counter on target creature.&#8221;<br>///br///
+
+Twin Phan Minh
+===========
+normal
+136/215
+4
+common
+Deep-Forest Naga
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Naga Scout 
+3
+4
+When Deep-Forest Naga enters the battlefield, put a step counter on a Path you control.
+<i>Since the rise of the Tyrant, the naga tribes have been pushed into the wild lands of deep Kueizimu.</i>
+Godfrey Escota
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+148/215
+4
+common
+Nomadic Wagh
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Cat Nomad 
+3
+3
+Flash<br>///br///Traveler&#8212;Nourish the Masses <i>(When this enters the battlefield, create Nourish the Masses. Then put a step counter on a path you control.)</i>
+
+Aurore Folny
+Nourish the Masses
+green
+
+Enchantment — Path 
+
+
+Whenever a creature you control deals combat damage to a player, put a step counter on Nourish the Masses.<br>///br///[3]: Nourish the Masses gains &#8220;<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Put a +1/+1 counter on target creature.&#8221;<br>///br///
+
+Twin Phan Minh
+===========
+normal
+131/215
+6
+common
+Ananta Serpent
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Snake Hydra 
+6
+6
+Ananta Serpent has trample as long as you control a creature with a +1/+1 counter on it.
+
+Geoff Trebs
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+144/215
+2
+common
+Leafspinner Liang
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Scout 
+1
+2
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+
+Gal Or
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+138/215
+1
+common
+Foxface Liang
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Druid 
+1
+1
+Foxface Liang can&#8217;t be blocked by creatures with power 2 or less.
+
+Xiaochen Fu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+160/215
+6
+common
+Zhulin Slayer
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Soldier 
+3
+3
+Vigilance<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Potential 4. <i>(If this permanent has fewer than four +1/+1 counters on it, put a +1/+1 counter on it.)</i>
+
+Jiamin Lin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+157/215
+3
+common
+Time for Tea
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Prevent all combat damage that would be dealt this turn by unmodified creatures.
+
+Aliya Chen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+130/215
+2
+common
+Aim High
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Untap target creature. It gets +2/+2 and gains reach until end of turn.
+
+Xiaoyu Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+194/215
+0
+rare
+Qinzai Overlook
+white, land
+
+Land
+
+
+Qinzai Overlook enters the battlefield tapped. When it does, choose one&#8212;<br>///br///<b>&#8226; </b>Scry 1.<br>///br///<b>&#8226; </b>Untap target basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.
+
+Jon Pintar
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+183/215
+0
+uncommon
+Cliffside Temple
+white, red, land, multicolor, horizontal
+
+Land — Mountain Plains 
+
+
+Cliffside Temple enters the battlefield tapped unless you have five or more cards in your hand.<br>///br///<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.)</i>
+
+Ruxing Gao
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+187/215
+0
+uncommon
+Glacial Temple
+blue, red, land, multicolor, horizontal
+
+Land — Island Mountain 
+
+
+Glacial Temple enters the battlefield tapped unless you have five or more cards in your hand.<br>///br///<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.)</i>
+
+Gabriel Yeganyan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+188/215
+0
+uncommon
+Golden Temple
+white, black, land, multicolor, horizontal
+
+Land — Plains Swamp 
+
+
+Golden Temple enters the battlefield tapped unless you have five or more cards in your hand.<br>///br///<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.)</i>
+
+Te Hu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+189/215
+0
+uncommon
+Grotto Temple
+black, green, land, multicolor, horizontal
+
+Land — Swamp Forest 
+
+
+Grotto Temple enters the battlefield tapped unless you have five or more cards in your hand.<br>///br///<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.)</i>
+
+Evgeniy Musienko
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+193/215
+0
+uncommon
+Lagoon Temple
+blue, green, land, multicolor, horizontal
+
+Land — Forest Island 
+
+
+Lagoon Temple enters the battlefield tapped unless you have five or more cards in your hand.<br>///br///<i>(<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.)</i>
+
+Flint Chen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+195/215
+0
+rare
+Zhiwan Overlook
+blue, land
+
+Land
+
+
+Zhiwan Overlook enters the battlefield tapped. When it does, choose one&#8212;<br>///br///<b>&#8226; </b>Scry 1.<br>///br///<b>&#8226; </b>Untap target basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.
+
+Yiming Nie
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+192/215
+0
+rare
+Kueizimu Overlook
+green, land
+
+Land
+
+
+Kueizimu Overlook enters the battlefield tapped. When it does, choose one&#8212;<br>///br///<b>&#8226; </b>Scry 1.<br>///br///<b>&#8226; </b>Untap target basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.
+
+Pixel Cat
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+185/215
+0
+rare
+Fengyong Overlook
+black, land
+
+Land
+
+
+Fengyong Overlook enters the battlefield tapped. When it does, choose one&#8212;<br>///br///<b>&#8226; </b>Scry 1.<br>///br///<b>&#8226; </b>Untap target basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+
+Pixel Cat
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+181/215
+0
+rare
+Biansha Overlook
+red, land
+
+Land
+
+
+Biansha Overlook enters the battlefield tapped. When it does, choose one&#8212;<br>///br///<b>&#8226; </b>Scry 1.<br>///br///<b>&#8226; </b>Untap target basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+
+heavybear @ artstation
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+7/8
+0
+common
+GUA Elemental
+red
+
+Token Creature — Elemental 
+1
+1
+
+
+Aaron Miller
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+66/215
+4
+common
+Centipede Rite
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature has lifelink and gets +0/+2. It assigns combat damage equal to its toughness rather than its power.
+
+rxart @ artstation
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+32/215
+1
+common
+Zenith Ascendant
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Monk 
+1
+1
+Flying<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Potential 2. <i>(If this permanent has fewer than two +1/+1 counters on it, put a +1/+1 counter on it.)</i>
+
+Crow God
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+178/215
+4
+common
+Steel Swordswoman
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct 
+3
+3
+<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Untap Steel Swordswoman.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Steel Swordswoman gains first strike until end of turn.
+
+Deiv Calviz
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+177/215
+6
+common
+Relic Giant
+artifact
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'>
+Artifact Creature — Construct 
+4
+4
+When Relic Giant dies, draw a card.
+
+Joon Ahn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+175/215
+2
+common
+Mechanical Ogre
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact Creature — Construct 
+1
+1
+Sacrifice an enchantment: Mechanical Ogre gains indestructible until end of turn.
+
+Sarayu Ruangvesh
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+174/215
+1
+common
+Fortune Cards
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice Fortune Cards: Search your library for a land card, reveal it, put it into your hand, then shuffle.
+
+Xiaoyu Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+3/215
+2
+uncommon
+Calligrapher’s Triumph
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Creatures you control gain flying and indestructible until end of turn.
+
+Gao Zhimin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+47/215
+4
+uncommon
+Herald of Immortals
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Griffin 
+3
+2
+Flying<br>///br///Whenever Herald of Immortals attacks, exile cards from the top of your library until you exile an enchantment card or a creature card with inherit. Put it back and put the rest on the bottom of your library in a random order.
+
+Ashley A. Adams
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+40/215
+2
+uncommon
+Dreamfletch Liang
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Archer 
+2
+1
+When Dreamfletch Liang enters the battlefield, put target creature an opponent controls on top of its owner&#8217;s library if its power is less than the number of differently named lands you control.
+
+Clark Ocleasa
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+116/215
+2
+uncommon
+Shoot Down the Suns
+red
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Shoot Down the Suns deals X damage divided as you choose among any number of target creatures or planeswalkers. If X is 9 or greater, it deals triple that amount of damage instead.
+
+Wei Zhou
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+127/215
+1
+uncommon
+Windspeaker of the Steppe
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Shaman 
+1
+1
+Whenever exactly two creatures you control attack, one gets +2/+0 and the other gains trample until end of turn.
+
+Gu Ling
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+128/215
+5
+uncommon
+Zhuyin Crow-Eater
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Wolf Dragon 
+4
+4
+Flying<br>///br///Whenever Zhuyin Crow-Eater deals combat damage to a player, it deals 2 damage to target creature or planeswalker that player controls.
+
+Claudya Schmidt
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+158/215
+3
+uncommon
+Tolgod-Ul Archer
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Giant Archer 
+1
+5
+Vigilance, reach
+<i>Nimshan&#8217;s war hasn&#8217;t yet reached the Tolgod-&#220;l steppe, where the giants are said to dwell.</i>
+Edgar S&#225;nchez Hidalgo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+141/215
+6
+uncommon
+Huifu Lurker
+green
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Fungus Wurm 
+4
+6
+Whenever a land enters the battlefield under your control, you gain 1 life for each differently named land you control.
+
+Nick Jizba
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+79/215
+1
+uncommon
+Hound of Yama
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Dog Demon 
+1
+2
+Pay 2 life: Hound of Yama assigns combat damage equal to its toughness rather than its power until end of turn.
+
+Angga Dwipayana
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+91/215
+2
+uncommon
+Tortured Courtier
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Advisor 
+2
+2
+As long as you&#8217;ve paid or gained life this turn, Tortured Courtier has indestructible.
+
+Jaz Chiang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+92/215
+1
+uncommon
+Tyrant-King’s Agent
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Advisor 
+1
+1
+Whenever Tyrant-King&#8217;s Agent deals combat damage to a player, draw a card and you lose 2 life.
+
+Yan Gisuka
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+24/215
+1
+uncommon
+Sword Dreamer
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Warrior 
+1
+1
+Lifelink<br>///br///Whenever an enchantment enters the battlefield under your control, you may create a 1/1 white Spirit creature token with flying. If you don&#8217;t, put a +1/+1 counter on Sword Dreamer.
+
+Buchuo Liu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+5/215
+2
+uncommon
+Daoling Alchemist
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Alchemist 
+2
+2
+Vigilance<br>///br///Whenever you pay or gain life, scry 2.
+
+Lan Ma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+7/215
+2
+uncommon
+Dragon-Staff Mendicant
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Monk 
+2
+2
+Whenever exactly two creatures you control attack, they can&#8217;t be blocked by creatures with greater mana value until end of turn.
+<i>Like a dragon&#8217;s purring, the ringing of the staff frightens demons away.</i>
+Sora Kim
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+9/215
+3
+uncommon
+Front-Line Footman
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Soldier 
+2
+4
+First strike<br>///br///Inherit <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Victor BAng
+Front-Line Tactics
+white
+
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +4/+2 and has first strike.<br>///br///If Front-Line Tactics would leave the battlefield, exile it instead.
+
+Fang Xinyu
+===========
+double
+10/215
+4
+uncommon
+Garuda Skycaptain
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Bird Monk 
+2
+2
+Traveler&#8212;Redeem a Rakshasa <i>(When this enters the battlefield, create Redeem a Rakshasa. Then put a step counter on a path you control.)</i><br>///br///Flying<br>///br///Other creatures you control get +1/+0.
+
+Agung Wulandana
+Redeem a Rakshasa
+white
+
+Enchantment — Path 
+
+
+Whenever a creature you control deals combat damage to a player, put a step counter on Redeem a Rakshasa.<br>///br///[2]: Untap each creature you control.<br>///br///[4]: Create a 3/3 white Demon Spirit creature token. Sacrifice Redeem a Rakshasa.
+
+Alexandra Malygina
+===========
+normal
+12/215
+3
+uncommon
+Light-Footed Zeren
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Antelope Advisor 
+1
+2
+Activated abilities of creatures you control cost up to <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to activate. This effect can&#8217;t reduce the amount of mana an ability costs to activate to less than one mana.
+<i>To learn proper walking, study the zeren.</i>
+Mateusz Majewski
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+2/215
+5
+uncommon
+Blademaster of Qinzai
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Warrior 
+3
+3
+Flash<br>///br///When Blademaster of Qinzai enters the battlefield, other creatures you control get +1/+1 until end of turn.
+
+Song Nan Li
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+2/8
+0
+uncommon
+GUA Demon Spirit
+white
+
+Token Creature — Demon Spirit 
+3
+3
+
+
+Denman Rooke, Lewis Liu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+30/215
+4
+uncommon
+Xiyin Enchantress
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+1
+2
+Flying<br>///br///Whenever an enchantment enters the battlefield under your control, draw a card.
+
+Ignatius Tan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+15/215
+3
+uncommon
+Monastic Seclusion
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+When Monastic Seclusion enters the battlefield, exile target creature until Monastic Seclusion leaves the battlefield.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Return a creature card exiled with Monastic Seclusion to the battlefield under your control. Sacrifice Monastic Seclusion.
+
+Zhong Wenhao
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+21/215
+3
+uncommon
+Secret Spear Arts
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Modified creatures you control get +1/+1 and have first strike.
+
+Wang Xiao
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+16/215
+4
+uncommon
+Peach Garden Encounter
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+When Peach Garden Encounter enters the battlefield, create a 1/1 white Spirit creature token with flying for each nontoken creature you control.<br>///br///Creature tokens enter the battlefield under your control with an additional +1/+1 counter.
+
+Maria Trepalina
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+46/215
+2
+uncommon
+Heavenly Messenger
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Bird Spirit 
+1
+1
+Flying<br>///br///When Heavenly Messenger enters the battlefield, scry 1.<br>///br///Inherit <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Lea Faske
+Messenger’s Duty
+blue
+
+Enchantment — Aura 
+
+
+Enchant player<br>///br///At the beginning of enchanted player&#8217;s upkeep, that player scries 1.<br>///br///If Messenger&#8217;s Duty would leave the battlefield, exile it instead.
+
+Lea Faske
+===========
+normal
+53/215
+4
+uncommon
+Qiuniu Under the Bridge
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Salamander Dragon 
+2
+3
+Flash<br>///br///When Qiuniu Under the Bridge enters the battlefield, untap target creature you control.
+<i>The first son of the dragon is a lover of music and song.</i>
+AlsaresLynx
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+55/215
+4
+uncommon
+Roaring Suanni
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Cat Dragon 
+2
+2
+Humans can&#8217;t block Roaring Suanni.<br>///br///When Roaring Suanni enters the battlefield, scry 2, then draw a card.
+<i>The fifth son of the dragon likes to sit at the feet of the wise.</i>
+Liao Robin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+45/215
+5
+uncommon
+Frostbow Liang
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Warrior 
+4
+3
+Whenever Frostbow Liang attacks, tap target creature defending player controls. It doesn&#8217;t untap during its controller&#8217;s next untap step.
+
+Irina Vasilenko
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+36/215
+2
+uncommon
+Counsel of the Waves
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Chant <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(If you cast this for <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, exile it as it resolves. Whenever a creature you control deals combat damage to a player, you may cast it from exile without paying its mana cost.)</i><br>///br///Look at the top four cards of your library. Put one into your hand and the rest on the bottom of your library in a random order.
+
+Julie Dillon
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+43/215
+5
+uncommon
+Floodbind
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Flash<br>///br///Enchant creature<br>///br///When Floodbind enters the battlefield, counter up to one target spell and tap enchanted creature.<br>///br///Enchanted creature doesn&#8217;t untap during its controller&#8217;s untap step.
+
+Sandara Tang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+57/215
+3
+uncommon
+Secret Fan Arts
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Modified creatures you control get +1/+1 and can&#8217;t be blocked except by modified creatures.
+
+Gan Junxi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+52/215
+2
+uncommon
+Pull into Water
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Target creature gets -4/-0 until end of turn. If you own an instant or sorcery card in exile, that creature loses all abilities and can&#8217;t have or gain abilities until end of turn.
+
+Ping He
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+50/215
+3
+uncommon
+Meditation Riddle
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+If you control at least three lands with different names, scry 2.<br>///br///Draw two cards.
+
+Klaus Pillon
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+80/215
+3
+uncommon
+Huangjiu Thief
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Rogue 
+2
+2
+<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Potential 2. <i>(If this permanent has fewer than two +1/+1 counters on it, put a +1/+1 counter on it.)</i><br>///br///Whenever you put a +1/+1 counter on a creature, you gain 1 life and each opponent loses 1 life.
+
+Chin Likhui
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+81/215
+4
+uncommon
+Implacable Xia
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Zombie Knight 
+2
+2
+Menace<br>///br///You may cast Implacable Xia from your graveyard as long as a creature died this turn.
+
+Chen Zhe
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+85/215
+5
+uncommon
+One-Eyed Sisters
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Demon Shaman 
+3
+3
+Flying<br>///br///Whenever you cast a noncreature spell during your main phase, you may have target creature get -2/-2 until end of turn.
+
+Anna Pavleeva
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+78/215
+3
+uncommon
+Heir of the Pearl
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Advisor 
+3
+1
+Traveler&#8212;Supplicate to a Demon <i>(When this enters the battlefield, create Supplicate to a Demon. Then put a step counter on a path you control.)</i><br>///br///Whenever Heir of the Pearl attacks, target attacking creature gains lifelink until end of turn.
+
+Mazert Young
+Supplicate to a Demon
+black
+
+Enchantment — Path 
+
+
+Whenever a creature you control deals combat damage to a player, put a step counter on Supplicate to a Demon.<br>///br///[1]: Lose 1 life and draw a card.<br>///br///[5]: Create a 4/4 black Demon creature token with flying. Sacrifice Supplicate to a Demon.
+
+Fenghua Zhong
+===========
+token
+5/8
+0
+uncommon
+GUA Demon
+black
+
+Token Creature — Demon 
+4
+4
+Flying
+
+Fenghua Zhong
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+69/215
+4
+uncommon
+Demean
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less for each counter on its target.<br>///br///Destroy target creature.
+
+Lea Faske
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+88/215
+2
+uncommon
+Return From Yellow Springs
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+When Return From Yellow Springs enters the battlefield, return target creature card from your graveyard to your hand.<br>///br///Whenever you cast a noncreature spell during your main phase, return Return From Yellow Springs to your hand.
+
+Tanawat Muninnimit
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+89/215
+3
+uncommon
+Secret Death Arts
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Modified creatures you control get +1/+1 and have menace.
+
+Keiji Hida
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+95/215
+3
+uncommon
+Witchtongue Vampire
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire 
+2
+2
+Deathtouch<br>///br///Witchtongue Vampire has flying as long as it&#8217;s attacking.
+
+Agung Wulandana
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+74/215
+2
+uncommon
+Gaze Into the Strange
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Target player discards two cards unless they discard a sorcery card.
+
+Magdalena Radziej
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+113/215
+2
+uncommon
+Mercenary Swordsman
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Soldier 
+1
+2
+Traveler&#8212;Siege of Zhiwan Bay <i>(When this enters the battlefield, create Siege of Zhiwan Bay. Then put a step counter on a path you control.)</i><br>///br///Whenever you cast a sorcery spell, Mercenary Swordsman gets +2/+0 until end of turn.
+
+Foritis Wong
+Siege of Zhiwan Bay
+red
+
+Enchantment — Path 
+
+
+Whenever you cast a sorcery spell, put a step counter on Siege of Zhiwan Bay.<br>///br///[2]: You may destroy target artifact.<br>///br///[5]:  Siege of Zhiwan Bay gains, &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, Sacrifice this Path: Exile the top four cards of your library. Until the end of your next turn, you may play those cards.&#8221;
+
+Brenda van Vugt
+===========
+normal
+104/215
+3
+uncommon
+Dragonbreath Conjurer
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elf Shaman 
+2
+2
+Haste<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Dragonbreath Conjurer and up to one target Dragon each get +1/+0 until end of turn.
+
+Roman Chaliy
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+121/215
+4
+uncommon
+Thunderfletcher
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Archer 
+3
+2
+First strike<br>///br///Whenever you attack with creatures with total power 5 or more, another target creature you control gains first strike until end of turn.
+
+Chattarin Sirisak
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+97/215
+4
+uncommon
+Celestial Dancer
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Spirit 
+3
+2
+Whenever you cast noncreature spell during your main phase, Celestial Dancer gets +2/+0 and gains flying until end of turn.<br>///br///Inherit <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Return this from the graveyard to the battlefield transformed.)</i>
+
+Hejun Mao
+Sky Maidens’ Dances
+red
+
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Whenever you cast a sorcery spell, enchanted creature gets +2/+0 and gains flying until end of turn.<br>///br///If Sky Maidens&#8217; Dances would leave the battlefield, exile it instead.
+
+Hejun Mao
+===========
+normal
+126/215
+2
+uncommon
+Western Sands Nomad
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Nomad 
+2
+1
+Whenever Western Sands Nomad attacks, if you cast a noncreature spell during your main phase this turn, Western Sands Nomad deals damage equal to its power to target creature.
+
+Yujin Choo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+117/215
+3
+uncommon
+Stoke the Inner Furnace
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>. If that mana is spent on a creature spell, that creature gains &#8220;When this creature enters the battlefield, it skirmishes with target creature.&#8221; <i>(After this phase, you have an additional combat phase. Only skirmishing creatures may participate. Untap them.)</i>
+
+Huyy Nguyen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+115/215
+3
+uncommon
+Secret Sword Arts
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Modified creatures you control get +1/+1 and have trample.
+
+Shiyang Tan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+99/215
+4
+uncommon
+City-Crushing Staff
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Chant <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(If you cast this for <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, exile it as it resolves. Whenever a creature you control deals combat damage to a player, you may cast it from exile without paying its mana cost.)</i><br>///br///Destroy target land.
+
+Minh Ho
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+109/215
+1
+uncommon
+Flickering Candle Meditation
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast Flickering Candle Meditation, discard a land card.<br>///br///Draw two cards.
+
+Wei Li
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+133/215
+2
+uncommon
+Beastmask Priestess
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Shaman 
+1
+1
+Traveler&#8212;Fearsome Confrontation <i>(When this enters the battlefield, create Fearsome Confrontation. Then put a step counter on a path you control.)</i><br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Put a +1/+1 counter on target non-Human creature.
+
+Amber Ye
+Fearsome Confrontation
+green
+
+Enchantment — Path 
+
+
+Whenever a creature you control deals combat damage to a player, put a step counter on Fearsome Confrontation.<br>///br///[2]: Fearsome Confrontation gains &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Target creature gains trample until end of turn.&#8221;<br>///br///[5]: Target creature you control skirmishes with target creature you don&#8217;t control. <i>(After this phase, you have an additional combat phase. Only skirmishing creatures may participate. Untap them.)</i>
+
+Khanh Mac
+===========
+normal
+140/215
+1
+uncommon
+Harmonic Summoner
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Musician 
+1
+1
+When Harmonic Summoner enters the battlefield, the next creature spell you cast this turn costs <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> less to cast. <i>(This only reduces the generic mana cost you pay.)</i>
+
+Ley Bowen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+154/215
+3
+uncommon
+Snowtread Tigress
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Cat 
+2
+2
+Trample<br>///br///Whenever you attack with creatures with total power 5 or more, target creature defending player controls must block this turn if able.
+
+Thomas van Meuter
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+142/215
+5
+uncommon
+Jade-Edge Guardian
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Soldier 
+2
+2
+Haste<br>///br///When Jade-Edge Guardian enters the battlefield, creatures you control get +2/+2 until end of turn.
+
+Svetlana Tigai
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+145/215
+4
+uncommon
+Liang Herbalist
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Alchemist 
+3
+3
+<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Potential 4. <i>(If this permanent has fewer than four +1/+1 counters on it, put a +1/+1 counter on it.)</i><br>///br///Whenever you put a +1/+1 counter on Liang Herbalist, you gain 3 life.
+
+Sylvain Sarrailh
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+139/215
+4
+uncommon
+Ghostwolf Summons
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Create two 2/2 green Wolf Spirit creature tokens.<br>///br///If you attacked with creatures with total power 5 or more this turn, create three of those tokens instead.
+
+Way Way
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+135/215
+3
+uncommon
+Cultivated Terraces
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+At the beginning of your upkeep, look at the top card of your library. If it&#8217;s a land card, you may put it onto the battlefield.
+
+Rebecca Hu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+152/215
+3
+uncommon
+Secret Battle Arts
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Modified creatures you control get +1/+1 and can&#8217;t be blocked by creatures with power 2 or less.
+
+Shiyang Tan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+153/215
+4
+uncommon
+Seek the Horizon
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle.
+
+Wei Guan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+156/215
+2
+uncommon
+Stalk Through Shadows
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Target creature you control gains hexproof until end of turn. You may have it skirmish with another target creature. <i>(After this phase, you have an additional combat phase. Only skirmishing creatures may participate. Untap them.)</i>
+
+Mateusz Majewski
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+172/215
+2
+uncommon
+Dragonfang Dagger
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +2/+2 and is a Dragon in addition to its types.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+Lei Qin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+173/215
+2
+uncommon
+Evoker’s Wheel
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Equipment 
+
+
+Whenever equipped creature attacks, create a tapped and attacking 1/1 white Spirit creature token with flying. Exile that token at end of combat.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+Magdalena Radziej
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+171/215
+3
+uncommon
+Ancient Powergem
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact
+
+
+Ancient Powergem enters the battlefield tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span> to your mana pool.
+
+Petros Stefanidis
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+176/215
+6
+uncommon
+Palace Dungeon
+artifact
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'>
+Artifact
+
+
+When Palace Dungeon enters the battlefield, exile target creature until Palace Dungeon leaves the battlefield.<br>///br///<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Exile Palace Dungeon, then return it to the battlefield tapped.
+
+Ning Zhang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+180/215
+4
+uncommon
+Trade Fleet
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Each player discards a card. Each player who does draws a card.
+
+Imad Awan
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+161/215
+4
+uncommon
+Hathi Auramancer
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elephant Monk 
+1
+4
+If an Aura would be put into your graveyard, exile it instead.<br>///br///You may cast cards exiled with cards named Hathi Auramancer.
+
+Forrest Imel
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+162/215
+5
+uncommon
+Minister of Lies
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Demon Wizard 
+3
+4
+Menace<br>///br///Whenever you cast a spell from exile, put a +1/+1 counter on Minister of Lies.
+
+Huang Guangjian
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+163/215
+3
+uncommon
+Gleaming Meditation
+black, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+When Gleaming Meditation enters the battlefield, mill three cards.<br>///br///Return Gleaming Meditation to your hand: You may cast target sorcery card from your graveyard this turn. Exile it as it resolves. Activate only as a sorcery.
+
+Naranbaatar Ganbold
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+164/215
+4
+uncommon
+Guqin Maestro
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Musician 
+2
+3
+Whenever you attack with creatures with total power 5 or more, exile the top card of your library. You may play it this turn.
+
+Shizen1102
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+165/215
+3
+uncommon
+Hawkbrother Archer
+white, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Archer 
+2
+4
+<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Potential 4. <i>(If this permanent has fewer than four +1/+1 counters on it, put a +1/+1 counter on it.)</i><br>///br///Whenever you put a +1/+1 counter on a creature, it gains indestructible until end of turn.
+
+T SWCK
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+166/215
+3
+uncommon
+Yunhai Shaman
+white, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Shaman 
+2
+2
+Whenever you pay or gain life, put a +1/+1 counter on Yunhai Shaman and target opponent loses 1 life.
+
+Yohann Schepacz
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+167/215
+3
+uncommon
+Dragon Egg Festival
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+When Dragon Egg Festival enters the battlefield, scry 2, then draw a card.<br>///br///Whenever a Dragon enters the battlefield under your control, return Dragon Egg Festival to its owner&#8217;s hand.
+
+Chiang Jaz
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+168/215
+3
+uncommon
+Viperskull
+black, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Zombie Snake 
+3
+2
+Vigilance<br>///br///Whenever a creature you control dies, gain life equal to its toughness.
+
+Bonhotal William
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+169/215
+2
+uncommon
+Esteemed Tactician
+white, red, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Advisor 
+2
+2
+Whenever you attack with exactly two creatures, creatures that block those creatures this turn get -1/-1 until end of turn.
+
+Bayard Wu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+170/215
+4
+uncommon
+Frostworker
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Shaman 
+3
+2
+When Frostworker enters the battlefield, tap up to one target creature for each name among lands you control and put a stun counter on each of them.
+
+Svetlana Tigai
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+8/8
+0
+uncommon
+GUA Wolf Spirit
+green
+
+Token Creature — Wolf Spirit 
+2
+2
+
+
+Jason Wang
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+63/215
+2
+common
+Zhiwan Bay Jelly
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Jellyfish 
+0
+3
+Defender<br>///br///Whenever Zhiwan Bay Jelly blocks a creature, that creature doesn&#8217;t untap during its controller&#8217;s next untap step.
+
+Feng Ling
+
+colorless
+
+
+
+
+
+
+
+===========
+double
+48/215
+3
+uncommon
+Immortal Scholar
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Spirit Wizard 
+2
+2
+Traveler&#8212;Charting the Heavens <i>(When this enters the battlefield, create Charting the Heavens. Then put a step counter on a path you control.)</i><br>///br///At the beginning of each end step, if you cast a spell this turn, scry 1.
+
+Wy C
+Charting the Heavens
+blue
+
+Enchantment — Path 
+
+
+Whenever you cast a noncreature spell, put a step counter on Charting the Heavens.<br>///br///[1]: Scry 1, then draw a card.<br>///br///[4]: Scry 2, then draw two cards. Sacrifice Charting the Heavens.
+
+Ksenia Kiseleva
+===========
