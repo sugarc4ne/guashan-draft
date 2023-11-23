@@ -9,6 +9,186 @@
 	        }
 	    },
 	    {
+	        "name": "GUA Plains 1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Plains 1.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Plains 2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Plains 2.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Plains 3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Plains 3.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Plains 4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Plains 4.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Island 1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Island 1.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Island 2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Island 2.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Island 3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Island 3.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Island 4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Island 4.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Swamp 1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Swamp 1.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Swamp 2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Swamp 2.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Swamp 3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Swamp 3.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Swamp 4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Swamp 4.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Mountain 1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Mountain 1.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Mountain 2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Mountain 2.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Mountain 3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Mountain 3.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Mountain 4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Mountain 4.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Forest 1",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Forest 1.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Forest 2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Forest 2.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Forest 3",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Forest 3.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "GUA Forest 4",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/GUA Forest 4.png?raw=true"
+	        }
+	    },
+	    {
 	        "name": "Cloud Scheduling Bureau",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -91,12 +271,12 @@
 	            "en": "Wushu Swordsman"
 	        },
 	        "back": {
-	            "name": "Swordcraft Ascension",
+	            "name": "Swordsman's Spirit",
 	            "printed_names": {
-	                "en": "Swordcraft Ascension"
+	                "en": "Swordsman's Spirit"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Swordcraft Ascension.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Swordsman's Spirit.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -160,12 +340,12 @@
 	            "en": "Xiyin Monk"
 	        },
 	        "back": {
-	            "name": "Monastic Vows",
+	            "name": "Monk's Vows",
 	            "printed_names": {
-	                "en": "Monastic Vows"
+	                "en": "Monk's Vows"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Monastic Vows.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Monk's Vows.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -1082,7 +1262,7 @@
 	    {
 	        "name": "Zhulin Slayer",
 	        "rarity": "common",
-	        "mana_cost": "{4}{G}",
+	        "mana_cost": "{5}{G}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Zhulin Slayer.png?raw=true"
@@ -1251,12 +1431,12 @@
 	        }
 	    },
 	    {
-	        "name": "Calligraphers Triumph",
+	        "name": "Calligrapher's Triumph",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Calligraphers Triumph.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Calligrapher's Triumph.png?raw=true"
 	        }
 	    },
 	    {
@@ -1483,12 +1663,12 @@
 	            "en": "Heavenly Messenger"
 	        },
 	        "back": {
-	            "name": "Messages from Heaven",
+	            "name": "Messenger's Duty",
 	            "printed_names": {
-	                "en": "Messages from Heaven"
+	                "en": "Messenger's Duty"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Messages from Heaven.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Messenger's Duty.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -1708,12 +1888,12 @@
 	            "en": "Celestial Dancer"
 	        },
 	        "back": {
-	            "name": "Celestial Choreography",
+	            "name": "Sky Maidens' Dances",
 	            "printed_names": {
-	                "en": "Celestial Choreography"
+	                "en": "Sky Maidens' Dances"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Celestial Choreography.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Sky Maidens' Dances.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -1875,12 +2055,12 @@
 	        }
 	    },
 	    {
-	        "name": "Evokers Wheel",
+	        "name": "Evoker's Wheel",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Evokers Wheel.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Evoker's Wheel.png?raw=true"
 	        }
 	    },
 	    {
@@ -2163,22 +2343,22 @@
 	        }
 	    },
 	    {
-	        "name": "Litigious Bian // Bians Damages",
+	        "name": "Litigious Bi'an",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Snake Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Litigious Bian // Bians Damages.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Litigious Bi'an.png?raw=true"
 	        },
 	        "printed names": {
-	            "en": "Litigious Bian // Bians Damages"
+	            "en": "Litigious Bi'an"
 	        },
 	        "back": {
-	            "name": "Judged Inferior",
+	            "name": "Bi'an's Damages",
 	            "printed_names": {
-	                "en": "Judged Inferior"
+	                "en": "Bi'an's Damages"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Judged Inferior.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Bi'an's Damages.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -2221,12 +2401,12 @@
 	            "en": "Arrogant Retainer"
 	        },
 	        "back": {
-	            "name": "To the Tyrant Court",
+	            "name": "To the Tyrant's Court",
 	            "printed_names": {
-	                "en": "To the Tyrant Court"
+	                "en": "To the Tyrant's Court"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/To the Tyrant Court.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/To the Tyrant's Court.png?raw=true"
 	            },
 	            "type": "Path"
 	        }
@@ -2325,12 +2505,12 @@
 	        }
 	    },
 	    {
-	        "name": "Wukongs Rampage",
+	        "name": "Wukong's Rampage",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wukongs Rampage.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wukong's Rampage.png?raw=true"
 	        }
 	    },
 	    {
@@ -2406,12 +2586,12 @@
 	        }
 	    },
 	    {
-	        "name": "Tricksters Mask",
+	        "name": "Trickster's Mask",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tricksters Mask.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Trickster's Mask.png?raw=true"
 	        }
 	    },
 	    {
@@ -2442,9 +2622,18 @@
 	        }
 	    },
 	    {
+	        "name": "Eternity Elixir",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Eternity Elixir.png?raw=true"
+	        }
+	    },
+	    {
 	        "name": "Opal Peacock",
 	        "rarity": "rare",
-	        "mana_cost": "{G}{W}",
+	        "mana_cost": "{W}{B}",
 	        "type": "Creature — Spirit Bird ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Opal Peacock.png?raw=true"
@@ -2635,160 +2824,62 @@
 	            },
 	            "type": "Land"
 	        }
-	    },
-	    {
-	        "name": "Searing Cut",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Searing Cut.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Wizened Dragonkeeper",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Human Shaman ",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wizened Dragonkeeper.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Enlightened Asura",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{R}",
-	        "type": "Creature — Devil Monk ",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Enlightened Asura.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Immortal Fenghuang",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{R}",
-	        "type": "Creature — Phoenix Spirit ",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Immortal Fenghuang.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Whirlpool Sword Style",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{R}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Whirlpool Sword Style.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Diyu's First Advance",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{R}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Diyu's First Advance.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Furious Chaofeng",
-	        "mana_cost": "{3}{R}{R}",
-	        "type": "Creature — Bird Dragon ",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Furious Chaofeng.png?raw=true"
-	        },
-	        "printed names": {
-	            "en": "Furious Chaofeng"
-	        },
-	        "back": {
-	            "name": "Blossoms of Flame",
-	            "printed_names": {
-	                "en": "Blossoms of Flame"
-	            },
-	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Blossoms of Flame.png?raw=true"
-	            },
-	            "type": "Path"
-	        }
-	    },
-	    {
-	        "name": "Revelation Dance",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{R}{R}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Revelation Dance.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Joyful Drowner",
-	        "rarity": "rare",
-	        "mana_cost": "{W}{B}",
-	        "type": "Creature — Elf Performer ",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Joyful Drowner.png?raw=true"
-	        }
 	    }
 	]
 	[RareSlot(1)]
-		5 Journey to Enlightenment
-		5 Wandering Immortal
-		5 Heavenly Law Student
-		5 Swordcraft Immortal
-		5 Western Deity
-		5 Abbot of Daoling
-		5 Celestial Tianlong
-		5 Immortals Hand
-		5 Ambitious Carp
-		5 Protection of Fuwen
-		5 Up-Down Sorcerer
-		5 Guardian Yazi
-		5 Litigious Bian // Bians Damages
-		5 Speak With Songbirds
-		5 Wise Shenlong
-		5 Bearded Sea Serpent
-		5 Arrogant Retainer
-		5 Chivalry of Madness
-		5 Mastering Sorcery
-		5 Whispering Servant
-		5 Exhausting Effort
-		5 Yaogui Burst
-		5 Creeping Yama
-		5 Cunning Dilong
-		5 Lotus Seeker
-		5 River and Lake Society
-		5 Wukongs Rampage
-		5 Camouflaged Taotie
-		5 Meditation on Realms
-		5 Mighty Jiaolong
-		5 Twilight Lutist
-		5 Cloudeater Hydra
-		5 Sword of the Tyrant-King
-		5 Wukong's Riding Cloud
-		5 Big-Small Staff
-		5 Tricksters Mask
-		5 Incantation Mandala
-		5 Given Permission to Live
-		5 Meru Mountain Ascetic
-		5 Opal Peacock
-		5 Tortoise-Style Warrior
-		5 Sword Siblings
-		5 Lunar Chevalier
-		5 Thunderbolt Twins
-		5 Shores of Lake Shenye
-		5 Cenotaph of Luobin
-		5 Guimei Factory
-		5 Gate to Tianhai
-		5 Chihou Border Town
-		5 Searing Cut
-		5 Wizened Dragonkeeper
-		5 Enlightened Asura
-		5 Immortal Fenghuang
-		5 Whirlpool Sword Style
-		5 Diyu's First Advance
-		5 Furious Chaofeng
-		5 Revelation Dance
-		5 Joyful Drowner
+		3 Journey to Enlightenment
+		3 Wandering Immortal
+		3 Heavenly Law Student
+		3 Swordcraft Immortal
+		3 Western Deity
+		3 Abbot of Daoling
+		3 Celestial Tianlong
+		3 Immortals Hand
+		3 GUA Dragon
+		3 Ambitious Carp
+		3 Protection of Fuwen
+		3 Up-Down Sorcerer
+		3 Guardian Yazi
+		3 Litigious Bi'an
+		3 Speak With Songbirds
+		3 Wise Shenlong
+		3 Bearded Sea Serpent
+		3 GUA Insect
+		3 Arrogant Retainer
+		3 Chivalry of Madness
+		3 Mastering Sorcery
+		3 Whispering Servant
+		3 Exhausting Effort
+		3 Yaogui Burst
+		3 Creeping Yama
+		3 Cunning Dilong
+		3 Lotus Seeker
+		3 River and Lake Society
+		3 Wukong's Rampage
+		3 Camouflaged Taotie
+		3 Meditation on Realms
+		3 Mighty Jiaolong
+		3 Twilight Lutist
+		3 Cloudeater Hydra
+		3 Treasure
+		3 Sword of the Tyrant-King
+		3 Wukong's Riding Cloud
+		3 Big-Small Staff
+		3 Trickster's Mask
+		3 Incantation Mandala
+		3 Given Permission to Live
+		3 Meru Mountain Ascetic
+		3 Eternity Elixir
+		3 Opal Peacock
+		3 Tortoise-Style Warrior
+		3 Sword Siblings
+		3 Lunar Chevalier
+		3 Thunderbolt Twins
+		3 Shores of Lake Shenye
+		3 Cenotaph of Luobin
+		3 Guimei Factory
+		3 Gate to Tianhai
+		3 Chihou Border Town
 	[UncommonSlot(3)]
 		10 Qinzai Overlook
 		10 Cliffside Temple
@@ -2800,7 +2891,7 @@
 		10 Kueizimu Overlook
 		10 Fengyong Overlook
 		10 Biansha Overlook
-		10 Calligraphers Triumph
+		10 Calligrapher's Triumph
 		10 Herald of Immortals
 		10 Dreamfletch Liang
 		10 Shoot Down the Suns
@@ -2818,6 +2909,7 @@
 		10 Garuda Skycaptain
 		10 Light-Footed Zeren
 		10 Blademaster of Qinzai
+		10 GUA Demon Spirit
 		10 Xiyin Enchantress
 		10 Monastic Seclusion
 		10 Secret Spear Arts
@@ -2835,6 +2927,7 @@
 		10 Implacable Xia
 		10 One-Eyed Sisters
 		10 Heir of the Pearl
+		10 GUA Demon
 		10 Demean
 		10 Return From Yellow Springs
 		10 Secret Death Arts
@@ -2860,7 +2953,7 @@
 		10 Seek the Horizon
 		10 Stalk Through Shadows
 		10 Dragonfang Dagger
-		10 Evokers Wheel
+		10 Evoker's Wheel
 		10 Ancient Powergem
 		10 Palace Dungeon
 		10 Trade Fleet
@@ -2874,122 +2967,143 @@
 		10 Viperskull
 		10 Esteemed Tactician
 		10 Frostworker
+		10 GUA Wolf Spirit
 		10 Immortal Scholar
 	[CommonSlot(10)]
-		15 Strategists Saber
-		15 Cloud Scheduling Bureau
-		15 Heavenly Abundance Service
-		15 Fortune Distribution Office
-		15 Calamity Logistics Authority
-		15 Internal Devil Affairs
-		15 Qinzai Cloudchaser
-		15 Storm Cultivation
-		15 Qinzai Halberdier
-		15 Wushu Swordsman
-		15 Tiger Shifu
-		15 Celestial Recruits
-		15 Sealkeeper
-		15 Vanara Guide
-		15 Xiyin Monk
-		15 Daoling Falconer
-		15 Qilin Advisor
-		15 Lonely Herbalist
-		15 Beckon Through Gates
-		15 Trained Together
-		15 Eagle Claw Training
-		15 Martial Brotherhood
-		15 Summoned to Court
-		15 Tiger Style
-		15 Masked Examiner
-		15 Professional Mourner
-		15 Shen Slayer
-		15 Nanhai Assassin
-		15 Cackling Heiress
-		15 Heedless Conjuress
-		15 Yama Minister
-		15 Corrupt Minister
-		15 Flesh Alchemist
-		15 Widowhunter
-		15 Efface
-		15 Escape from Diyu
-		15 Viper Style
-		15 Feed the Crows
-		15 Radiant Fiendish Claw
-		15 Grim Maneuver
-		15 Music For the Departed
-		15 Cruel Edict
-		15 Heavenly Nectar Harvest
-		15 Windstep Xia
-		15 Cloudfletch Sentinel
-		15 Dragonseeker Liang
-		15 Four-Eyed Chiwen
-		15 Liang Hierolune
-		15 Mirrorthrower Liang
-		15 Torrential Baxia
-		15 Cranewing Liang
-		15 Zhiwan Lurker
-		15 Quelling Blade
-		15 Sink Into Silence
-		15 Captivating Chord
-		15 Scrolls of the Ages
-		15 Waveshaping
-		15 Blackout
-		15 Crane Style
-		15 Eight Directions Portal
-		15 Emptiness Technique
-		15 Veiled in Light
-		15 Harsh Wisdom
-		15 Howling Pulao
-		15 Spearpoint Cavalry
-		15 Murderous Liang
-		15 Tamed Bixi
-		15 Vanara Staff Master
-		15 Vanara Warrior
-		15 Drunken Poet
-		15 Flameshaper Ascetic
-		15 Untested Warrior
-		15 Hermit Composer
-		15 Charm Barrage
-		15 Crushing Fist
-		15 Disturb a Dragon
-		15 Lius Dragon Standard
-		15 Dragon Style
-		15 Disassemble
-		15 Ember Whip
-		15 Trouble in the Teahouse
-		15 Thrashing Coil Symphony
-		15 Fiery Pearl
-		15 Constrictor Maiden
-		15 Wandering Piper
-		15 Ebonfang Wurm
-		15 Nectarbelly
-		15 Arduous Contest
-		15 Peacock Spring
-		15 Meet the Mighty
-		15 Spider Style
-		15 Adventurous Impulse
-		15 Release Attachment
-		15 Rejuvenating Infusion
-		15 Kueizimu Piper
-		15 Deep-Forest Naga
-		15 Nomadic Wagh
-		15 Ananta Serpent
-		15 Leafspinner Liang
-		15 Foxface Liang
-		15 Zhulin Slayer
-		15 Time for Tea
-		15 Aim High
-		15 Centipede Rite
-		15 Zenith Ascendant
-		15 Steel Swordswoman
-		15 Relic Giant
-		15 Mechanical Ogre
-		15 Fortune Cards
-		15 Zhiwan Bay Jelly
-		15 Icepeak Explorer
-		15 Saltspray Fisher
-		15 Moonsilk Scoundrel
-		15 Stoneburl Rider
-		15 Feastcraft Painter
+		10 Strategists Saber
+		10 Cloud Scheduling Bureau
+		10 Heavenly Abundance Service
+		10 Fortune Distribution Office
+		10 Calamity Logistics Authority
+		10 Internal Devil Affairs
+		10 Qinzai Cloudchaser
+		10 Storm Cultivation
+		10 Qinzai Halberdier
+		10 Wushu Swordsman
+		10 Tiger Shifu
+		10 Celestial Recruits
+		10 Sealkeeper
+		10 Vanara Guide
+		10 Xiyin Monk
+		10 Daoling Falconer
+		10 Qilin Advisor
+		10 Lonely Herbalist
+		10 Beckon Through Gates
+		10 Trained Together
+		10 Eagle Claw Training
+		10 Martial Brotherhood
+		10 Summoned to Court
+		10 Tiger Style
+		10 Masked Examiner
+		10 Professional Mourner
+		10 Shen Slayer
+		10 Nanhai Assassin
+		10 Cackling Heiress
+		10 Heedless Conjuress
+		10 Yama Minister
+		10 Corrupt Minister
+		10 Flesh Alchemist
+		10 Widowhunter
+		10 Efface
+		10 Escape from Diyu
+		10 Viper Style
+		10 Feed the Crows
+		10 Radiant Fiendish Claw
+		10 Grim Maneuver
+		10 Music For the Departed
+		10 Cruel Edict
+		10 Heavenly Nectar Harvest
+		10 Windstep Xia
+		10 Cloudfletch Sentinel
+		10 Dragonseeker Liang
+		10 Four-Eyed Chiwen
+		10 Liang Hierolune
+		10 Mirrorthrower Liang
+		10 Torrential Baxia
+		10 Cranewing Liang
+		10 Zhiwan Lurker
+		10 Quelling Blade
+		10 Sink Into Silence
+		10 Captivating Chord
+		10 Scrolls of the Ages
+		10 Waveshaping
+		10 Blackout
+		10 Crane Style
+		10 Eight Directions Portal
+		10 Emptiness Technique
+		10 Veiled in Light
+		10 Harsh Wisdom
+		10 Howling Pulao
+		10 Spearpoint Cavalry
+		10 Murderous Liang
+		10 Tamed Bixi
+		10 Vanara Staff Master
+		10 Vanara Warrior
+		10 Drunken Poet
+		10 Flameshaper Ascetic
+		10 Untested Warrior
+		10 Hermit Composer
+		10 Charm Barrage
+		10 Crushing Fist
+		10 Disturb a Dragon
+		10 Lius Dragon Standard
+		10 Dragon Style
+		10 Disassemble
+		10 Ember Whip
+		10 Trouble in the Teahouse
+		10 Thrashing Coil Symphony
+		10 Fiery Pearl
+		10 Constrictor Maiden
+		10 Wandering Piper
+		10 Ebonfang Wurm
+		10 Nectarbelly
+		10 Arduous Contest
+		10 Peacock Spring
+		10 Meet the Mighty
+		10 Spider Style
+		10 Adventurous Impulse
+		10 Release Attachment
+		10 Rejuvenating Infusion
+		10 Kueizimu Piper
+		10 Deep-Forest Naga
+		10 Nomadic Wagh
+		10 Ananta Serpent
+		10 Leafspinner Liang
+		10 Foxface Liang
+		10 Zhulin Slayer
+		10 Time for Tea
+		10 Aim High
+		10 Centipede Rite
+		10 Zenith Ascendant
+		10 Steel Swordswoman
+		10 Relic Giant
+		10 Mechanical Ogre
+		10 Fortune Cards
+		10 Zhiwan Bay Jelly
+		10 Icepeak Explorer
+		10 Saltspray Fisher
+		10 Moonsilk Scoundrel
+		10 Stoneburl Rider
+		10 Feastcraft Painter
 	[BasicSlot(1)]
+		10 GUA Plains 1
+		10 GUA Plains 2
+		10 GUA Plains 3
+		10 GUA Plains 4
+		10 GUA Island 1
+		10 GUA Island 2
+		10 GUA Island 3
+		10 GUA Island 4
+		10 GUA Swamp 1
+		10 GUA Swamp 2
+		10 GUA Swamp 3
+		10 GUA Swamp 4
+		10 GUA Mountain 1
+		10 GUA Mountain 2
+		10 GUA Mountain 3
+		10 GUA Mountain 4
+		10 GUA Forest 1
+		10 GUA Forest 2
+		10 GUA Forest 3
+		10 GUA Forest 4
 	
