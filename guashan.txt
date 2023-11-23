@@ -2163,14 +2163,14 @@
 	        }
 	    },
 	    {
-	        "name": "Litigious Bi-an",
+	        "name": "Litigious Bi An",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Snake Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Litigious Bi-an.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Litigious Bi An.png?raw=true"
 	        },
 	        "printed names": {
-	            "en": "Litigious Bi-an"
+	            "en": "Litigious Bi An"
 	        },
 	        "back": {
 	            "name": "Judged Inferior",
@@ -2743,7 +2743,7 @@
 		5 Protection of Fuwen
 		5 Up-Down Sorcerer
 		5 Guardian Yazi
-		5 Litigious Bi-an
+		5 Litigious Bi An
 		5 Speak With Songbirds
 		5 Wise Shenlong
 		5 Bearded Sea Serpent
