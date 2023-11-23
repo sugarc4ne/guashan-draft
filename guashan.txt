@@ -1,0 +1,2995 @@
+[CustomCards]
+	[    {
+	        "name": "Strategists Saber",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Strategists Saber.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cloud Scheduling Bureau",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cloud Scheduling Bureau.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heavenly Abundance Service",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Heavenly Abundance Service.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fortune Distribution Office",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Fortune Distribution Office.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Calamity Logistics Authority",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Calamity Logistics Authority.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Internal Devil Affairs",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Internal Devil Affairs.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Qinzai Cloudchaser",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Cat Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Qinzai Cloudchaser.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Storm Cultivation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Storm Cultivation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Qinzai Halberdier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Qinzai Halberdier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wushu Swordsman",
+	        "mana_cost": "{W}{W}",
+	        "type": "Enchantment Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wushu Swordsman.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Wushu Swordsman"
+	        },
+	        "back": {
+	            "name": "Swordcraft Ascension",
+	            "printed_names": {
+	                "en": "Swordcraft Ascension"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Swordcraft Ascension.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Tiger Shifu",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Cat Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tiger Shifu.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Celestial Recruits",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Celestial Recruits.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sealkeeper",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Sealkeeper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vanara Guide",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Ape Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Vanara Guide.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Vanara Guide"
+	        },
+	        "back": {
+	            "name": "Road to Daoling City",
+	            "printed_names": {
+	                "en": "Road to Daoling City"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Road to Daoling City.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Xiyin Monk",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Xiyin Monk.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Xiyin Monk"
+	        },
+	        "back": {
+	            "name": "Monastic Vows",
+	            "printed_names": {
+	                "en": "Monastic Vows"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Monastic Vows.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Daoling Falconer",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Daoling Falconer.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Daoling Falconer"
+	        },
+	        "back": {
+	            "name": "Road to Daoling City",
+	            "printed_names": {
+	                "en": "Road to Daoling City"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Road to Daoling City.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Qilin Advisor",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Kirin Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Qilin Advisor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lonely Herbalist",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Alchemist ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Lonely Herbalist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Beckon Through Gates",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Beckon Through Gates.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trained Together",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Trained Together.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eagle Claw Training",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Eagle Claw Training.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Martial Brotherhood",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Martial Brotherhood.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Summoned to Court",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Summoned to Court.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tiger Style",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tiger Style.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Masked Examiner",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Vampire Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Masked Examiner.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Masked Examiner"
+	        },
+	        "back": {
+	            "name": "Midnight Encounter",
+	            "printed_names": {
+	                "en": "Midnight Encounter"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Midnight Encounter.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Professional Mourner",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Professional Mourner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shen Slayer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Shen Slayer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nanhai Assassin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Assassin ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Nanhai Assassin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cackling Heiress",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cackling Heiress.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heedless Conjuress",
+	        "rarity": "common",
+	        "mana_cost": "{5}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Heedless Conjuress.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yama Minister",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Demon Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Yama Minister.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Yama Minister"
+	        },
+	        "back": {
+	            "name": "Midnight Encounter",
+	            "printed_names": {
+	                "en": "Midnight Encounter"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Midnight Encounter.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Corrupt Minister",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Corrupt Minister.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Corrupt Minister"
+	        },
+	        "back": {
+	            "name": "Ill-Gotten Promotion",
+	            "printed_names": {
+	                "en": "Ill-Gotten Promotion"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Ill-Gotten Promotion.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Flesh Alchemist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Demon Alchemist ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Flesh Alchemist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Widowhunter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Widowhunter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Efface",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Efface.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Escape from Diyu",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Escape from Diyu.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Viper Style",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Viper Style.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Feed the Crows",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Feed the Crows.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Radiant Fiendish Claw",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Radiant Fiendish Claw.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Grim Maneuver",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Grim Maneuver.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Music For the Departed",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Music For the Departed.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cruel Edict",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cruel Edict.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heavenly Nectar Harvest",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Heavenly Nectar Harvest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Windstep Xia",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Windstep Xia.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Windstep Xia"
+	        },
+	        "back": {
+	            "name": "Windstep Technique",
+	            "printed_names": {
+	                "en": "Windstep Technique"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Windstep Technique.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Cloudfletch Sentinel",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Archer ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cloudfletch Sentinel.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Cloudfletch Sentinel"
+	        },
+	        "back": {
+	            "name": "Dive Into Ruins",
+	            "printed_names": {
+	                "en": "Dive Into Ruins"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dive Into Ruins.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Dragonseeker Liang",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dragonseeker Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Four-Eyed Chiwen",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Fish Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Four-Eyed Chiwen.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Liang Hierolune",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Liang Hierolune.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Liang Hierolune"
+	        },
+	        "back": {
+	            "name": "Dive Into Ruins",
+	            "printed_names": {
+	                "en": "Dive Into Ruins"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dive Into Ruins.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Mirrorthrower Liang",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Mirrorthrower Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Torrential Baxia",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Lizard Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Torrential Baxia.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cranewing Liang",
+	        "rarity": "common",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cranewing Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zhiwan Lurker",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Serpent ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Zhiwan Lurker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Quelling Blade",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Quelling Blade.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sink Into Silence",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Sink Into Silence.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Captivating Chord",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Captivating Chord.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Scrolls of the Ages",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Scrolls of the Ages.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Waveshaping",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Waveshaping.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blackout",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Blackout.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crane Style",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Crane Style.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eight Directions Portal",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Eight Directions Portal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Emptiness Technique",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Emptiness Technique.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Veiled in Light",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Veiled in Light.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Harsh Wisdom",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Harsh Wisdom.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Howling Pulao",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Lizard Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Howling Pulao.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spearpoint Cavalry",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Spearpoint Cavalry.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Murderous Liang",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Murderous Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tamed Bixi",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Turtle Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tamed Bixi.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vanara Staff Master",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment Creature — Ape Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Vanara Staff Master.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Vanara Staff Master"
+	        },
+	        "back": {
+	            "name": "Leaping Staff Attack",
+	            "printed_names": {
+	                "en": "Leaping Staff Attack"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Leaping Staff Attack.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Vanara Warrior",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Ape Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Vanara Warrior.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Vanara Warrior"
+	        },
+	        "back": {
+	            "name": "Martial Apprenticeship",
+	            "printed_names": {
+	                "en": "Martial Apprenticeship"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Martial Apprenticeship.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Drunken Poet",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Alchemist ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Drunken Poet.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flameshaper Ascetic",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Flameshaper Ascetic.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Untested Warrior",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Untested Warrior.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Untested Warrior"
+	        },
+	        "back": {
+	            "name": "Martial Apprenticeship",
+	            "printed_names": {
+	                "en": "Martial Apprenticeship"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Martial Apprenticeship.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Hermit Composer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Human Musician ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Hermit Composer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Charm Barrage",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Charm Barrage.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Crushing Fist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Crushing Fist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Disturb a Dragon",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Disturb a Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lius Dragon Standard",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Lius Dragon Standard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragon Style",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dragon Style.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Disassemble",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Disassemble.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ember Whip",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Ember Whip.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trouble in the Teahouse",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Trouble in the Teahouse.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thrashing Coil Symphony",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Thrashing Coil Symphony.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fiery Pearl",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Fiery Pearl.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Constrictor Maiden",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Constrictor Maiden.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wandering Piper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wandering Piper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ebonfang Wurm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Ebonfang Wurm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nectarbelly",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Nectarbelly.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Arduous Contest",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Arduous Contest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Peacock Spring",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Peacock Spring.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Meet the Mighty",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Meet the Mighty.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spider Style",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Spider Style.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Adventurous Impulse",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Adventurous Impulse.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Release Attachment",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Release Attachment.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rejuvenating Infusion",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Rejuvenating Infusion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kueizimu Piper",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Musician ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Kueizimu Piper.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Kueizimu Piper"
+	        },
+	        "back": {
+	            "name": "Nourish the Masses",
+	            "printed_names": {
+	                "en": "Nourish the Masses"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Nourish the Masses.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Deep-Forest Naga",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Naga Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Deep-Forest Naga.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nomadic Wagh",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Cat Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Nomadic Wagh.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Nomadic Wagh"
+	        },
+	        "back": {
+	            "name": "Nourish the Masses",
+	            "printed_names": {
+	                "en": "Nourish the Masses"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Nourish the Masses.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Ananta Serpent",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Snake Hydra ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Ananta Serpent.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Leafspinner Liang",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Leafspinner Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Foxface Liang",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Foxface Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zhulin Slayer",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Zhulin Slayer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Time for Tea",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Time for Tea.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aim High",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Aim High.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Qinzai Overlook",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Qinzai Overlook.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cliffside Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Mountain Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cliffside Temple.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Glacial Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Island Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Glacial Temple.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Golden Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Plains Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Golden Temple.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Grotto Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Swamp Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Grotto Temple.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lagoon Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Forest Island ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Lagoon Temple.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zhiwan Overlook",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Zhiwan Overlook.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kueizimu Overlook",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Kueizimu Overlook.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fengyong Overlook",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Fengyong Overlook.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Biansha Overlook",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Biansha Overlook.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Centipede Rite",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Centipede Rite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zenith Ascendant",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Zenith Ascendant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Steel Swordswoman",
+	        "rarity": "common",
+	        "mana_cost": "{4}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Steel Swordswoman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Relic Giant",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Relic Giant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mechanical Ogre",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Mechanical Ogre.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fortune Cards",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Fortune Cards.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Calligraphers Triumph",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Calligraphers Triumph.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Herald of Immortals",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Griffin ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Herald of Immortals.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dreamfletch Liang",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Elf Archer ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dreamfletch Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shoot Down the Suns",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Shoot Down the Suns.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Windspeaker of the Steppe",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Windspeaker of the Steppe.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zhuyin Crow-Eater",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Wolf Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Zhuyin Crow-Eater.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tolgod-Ul Archer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Giant Archer ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tolgod-Ul Archer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Huifu Lurker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{G}",
+	        "type": "Creature — Fungus Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Huifu Lurker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hound of Yama",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Dog Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Hound of Yama.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tortured Courtier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tortured Courtier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tyrant-Kings Agent",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tyrant-Kings Agent.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sword Dreamer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Sword Dreamer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Daoling Alchemist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Alchemist ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Daoling Alchemist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragon-Staff Mendicant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dragon-Staff Mendicant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Front-Line Footman",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Front-Line Footman.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Front-Line Footman"
+	        },
+	        "back": {
+	            "name": "Front-Line Tactics",
+	            "printed_names": {
+	                "en": "Front-Line Tactics"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Front-Line Tactics.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Garuda Skycaptain",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Bird Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Garuda Skycaptain.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Garuda Skycaptain"
+	        },
+	        "back": {
+	            "name": "Redeem a Rakshasa",
+	            "printed_names": {
+	                "en": "Redeem a Rakshasa"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Redeem a Rakshasa.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Light-Footed Zeren",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Antelope Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Light-Footed Zeren.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blademaster of Qinzai",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Blademaster of Qinzai.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Xiyin Enchantress",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Xiyin Enchantress.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Monastic Seclusion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Monastic Seclusion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Secret Spear Arts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Secret Spear Arts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Peach Garden Encounter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Peach Garden Encounter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heavenly Messenger",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment Creature — Bird Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Heavenly Messenger.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Heavenly Messenger"
+	        },
+	        "back": {
+	            "name": "Messages from Heaven",
+	            "printed_names": {
+	                "en": "Messages from Heaven"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Messages from Heaven.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Qiuniu Under the Bridge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Salamander Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Qiuniu Under the Bridge.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Roaring Suanni",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Cat Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Roaring Suanni.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frostbow Liang",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Frostbow Liang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Counsel of the Waves",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Counsel of the Waves.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Floodbind",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Floodbind.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Secret Fan Arts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Secret Fan Arts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pull into Water",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Pull into Water.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Meditation Riddle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Meditation Riddle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Huangjiu Thief",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Huangjiu Thief.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Implacable Xia",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Zombie Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Implacable Xia.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "One-Eyed Sisters",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Demon Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/One-Eyed Sisters.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heir of the Pearl",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Heir of the Pearl.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Heir of the Pearl"
+	        },
+	        "back": {
+	            "name": "Supplicate to a Demon",
+	            "printed_names": {
+	                "en": "Supplicate to a Demon"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Supplicate to a Demon.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Demean",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Demean.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Return From Yellow Springs",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Return From Yellow Springs.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Secret Death Arts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Secret Death Arts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Witchtongue Vampire",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Witchtongue Vampire.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gaze Into the Strange",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Gaze Into the Strange.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mercenary Swordsman",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Mercenary Swordsman.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Mercenary Swordsman"
+	        },
+	        "back": {
+	            "name": "Siege of Zhiwan Bay",
+	            "printed_names": {
+	                "en": "Siege of Zhiwan Bay"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Siege of Zhiwan Bay.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Dragonbreath Conjurer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dragonbreath Conjurer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thunderfletcher",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Archer ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Thunderfletcher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Celestial Dancer",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment Creature — Human Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Celestial Dancer.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Celestial Dancer"
+	        },
+	        "back": {
+	            "name": "Celestial Choreography",
+	            "printed_names": {
+	                "en": "Celestial Choreography"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Celestial Choreography.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Western Sands Nomad",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Nomad ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Western Sands Nomad.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stoke the Inner Furnace",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Stoke the Inner Furnace.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Secret Sword Arts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Secret Sword Arts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "City-Crushing Staff",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/City-Crushing Staff.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flickering Candle Meditation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Flickering Candle Meditation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Beastmask Priestess",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Beastmask Priestess.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Beastmask Priestess"
+	        },
+	        "back": {
+	            "name": "Fearsome Confrontation",
+	            "printed_names": {
+	                "en": "Fearsome Confrontation"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Fearsome Confrontation.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Harmonic Summoner",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Musician ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Harmonic Summoner.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Snowtread Tigress",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Cat ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Snowtread Tigress.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Jade-Edge Guardian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Elf Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Jade-Edge Guardian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Liang Herbalist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Elf Alchemist ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Liang Herbalist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ghostwolf Summons",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Ghostwolf Summons.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cultivated Terraces",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cultivated Terraces.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Secret Battle Arts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Secret Battle Arts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Seek the Horizon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Seek the Horizon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stalk Through Shadows",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Stalk Through Shadows.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragonfang Dagger",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dragonfang Dagger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Evokers Wheel",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Evokers Wheel.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Powergem",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Ancient Powergem.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Palace Dungeon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Palace Dungeon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trade Fleet",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Trade Fleet.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hathi Auramancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{U}",
+	        "type": "Creature — Elephant Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Hathi Auramancer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Minister of Lies",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{B}",
+	        "type": "Creature — Demon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Minister of Lies.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gleaming Meditation",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Gleaming Meditation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Guqin Maestro",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Human Musician ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Guqin Maestro.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hawkbrother Archer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{W}",
+	        "type": "Creature — Human Archer ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Hawkbrother Archer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yunhai Shaman",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Yunhai Shaman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragon Egg Festival",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Dragon Egg Festival.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Viperskull",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature — Zombie Snake ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Viperskull.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Esteemed Tactician",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{W}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Esteemed Tactician.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frostworker",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Creature — Elf Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Frostworker.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zhiwan Bay Jelly",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Jellyfish ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Zhiwan Bay Jelly.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Immortal Scholar",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Spirit Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Immortal Scholar.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Immortal Scholar"
+	        },
+	        "back": {
+	            "name": "Charting the Heavens",
+	            "printed_names": {
+	                "en": "Charting the Heavens"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Charting the Heavens.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Journey to Enlightenment",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Journey to Enlightenment.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wandering Immortal",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Spirit Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wandering Immortal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heavenly Law Student",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Spirit Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Heavenly Law Student.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Swordcraft Immortal",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Spirit Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Swordcraft Immortal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Western Deity",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Western Deity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Abbot of Daoling",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Abbot of Daoling.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Abbot of Daoling"
+	        },
+	        "back": {
+	            "name": "Find the Golden Arhat",
+	            "printed_names": {
+	                "en": "Find the Golden Arhat"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Find the Golden Arhat.png?raw=true"
+	            },
+	            "type": "Enchantment — Path "
+	        }
+	    },
+	    {
+	        "name": "Celestial Tianlong",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Dragon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Celestial Tianlong.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Immortals Hand",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Immortals Hand.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ambitious Carp",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Fish ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Ambitious Carp.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Ambitious Carp"
+	        },
+	        "back": {
+	            "name": "Over the Dragon Gate",
+	            "printed_names": {
+	                "en": "Over the Dragon Gate"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Over the Dragon Gate.png?raw=true"
+	            },
+	            "type": "Path"
+	        }
+	    },
+	    {
+	        "name": "Protection of Fuwen",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Protection of Fuwen.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Up-Down Sorcerer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Up-Down Sorcerer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Guardian Yazi",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Wolf Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Guardian Yazi.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Litigious Bian // Bians Damages",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Snake Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Litigious Bian // Bians Damages.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Litigious Bian // Bians Damages"
+	        },
+	        "back": {
+	            "name": "Judged Inferior",
+	            "printed_names": {
+	                "en": "Judged Inferior"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Judged Inferior.png?raw=true"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Speak With Songbirds",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Speak With Songbirds.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wise Shenlong",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Dragon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wise Shenlong.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bearded Sea Serpent",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Serpent ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Bearded Sea Serpent.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Arrogant Retainer",
+	        "mana_cost": "{B}{B}",
+	        "type": "Creature — Human Demon Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Arrogant Retainer.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Arrogant Retainer"
+	        },
+	        "back": {
+	            "name": "To the Tyrant Court",
+	            "printed_names": {
+	                "en": "To the Tyrant Court"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/To the Tyrant Court.png?raw=true"
+	            },
+	            "type": "Path"
+	        }
+	    },
+	    {
+	        "name": "Chivalry of Madness",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Chivalry of Madness.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mastering Sorcery",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Mastering Sorcery.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Whispering Servant",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Whispering Servant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Exhausting Effort",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Exhausting Effort.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yaogui Burst",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Yaogui Burst.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Creeping Yama",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Insect Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Creeping Yama.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cunning Dilong",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Dragon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cunning Dilong.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lotus Seeker",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Lotus Seeker.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Lotus Seeker"
+	        },
+	        "back": {
+	            "name": "Find Refuge in Beauty",
+	            "printed_names": {
+	                "en": "Find Refuge in Beauty"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Find Refuge in Beauty.png?raw=true"
+	            },
+	            "type": "Path"
+	        }
+	    },
+	    {
+	        "name": "River and Lake Society",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/River and Lake Society.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wukongs Rampage",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wukongs Rampage.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Camouflaged Taotie",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Camouflaged Taotie.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Meditation on Realms",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Meditation on Realms.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mighty Jiaolong",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Dragon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Mighty Jiaolong.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Twilight Lutist",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Human Musician ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Twilight Lutist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cloudeater Hydra",
+	        "rarity": "rare",
+	        "mana_cost": "{8}{G}{G}",
+	        "type": "Creature — Hydra ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cloudeater Hydra.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sword of the Tyrant-King",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Sword of the Tyrant-King.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wukong's Riding Cloud",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wukong's Riding Cloud.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Big-Small Staff",
+	        "rarity": "rare",
+	        "mana_cost": "{4}",
+	        "type": "Legendary Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Big-Small Staff.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tricksters Mask",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tricksters Mask.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Incantation Mandala",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Incantation Mandala.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Given Permission to Live",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{B}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Given Permission to Live.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Meru Mountain Ascetic",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Meru Mountain Ascetic.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Opal Peacock",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Spirit Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Opal Peacock.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tortoise-Style Warrior",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Tortoise-Style Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sword Siblings",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Sword Siblings.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lunar Chevalier",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}{U}",
+	        "type": "Creature — Elf Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Lunar Chevalier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thunderbolt Twins",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{R}",
+	        "type": "Creature — Human Dragon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Thunderbolt Twins.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shores of Lake Shenye",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Shores of Lake Shenye.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cenotaph of Luobin",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Cenotaph of Luobin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Guimei Factory",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Guimei Factory.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gate to Tianhai",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Gate to Tianhai.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Chihou Border Town",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Chihou Border Town.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Icepeak Explorer",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Icepeak Explorer.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Icepeak Explorer"
+	        },
+	        "back": {
+	            "name": "Icepeak Sanctuary",
+	            "printed_names": {
+	                "en": "Icepeak Sanctuary"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Icepeak Sanctuary.png?raw=true"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "Saltspray Fisher",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Saltspray Fisher.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Saltspray Fisher"
+	        },
+	        "back": {
+	            "name": "Saltspray Pier",
+	            "printed_names": {
+	                "en": "Saltspray Pier"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Saltspray Pier.png?raw=true"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "Moonsilk Scoundrel",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Moonsilk Scoundrel.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Moonsilk Scoundrel"
+	        },
+	        "back": {
+	            "name": "Moonsilk Canopy",
+	            "printed_names": {
+	                "en": "Moonsilk Canopy"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Moonsilk Canopy.png?raw=true"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "Stoneburl Rider",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Elf Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Stoneburl Rider.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Stoneburl Rider"
+	        },
+	        "back": {
+	            "name": "Stoneburl Retreat",
+	            "printed_names": {
+	                "en": "Stoneburl Retreat"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Stoneburl Retreat.png?raw=true"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "Feastcraft Painter",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Feastcraft Painter.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Feastcraft Painter"
+	        },
+	        "back": {
+	            "name": "Feastcraft Plaza",
+	            "printed_names": {
+	                "en": "Feastcraft Plaza"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Feastcraft Plaza.png?raw=true"
+	            },
+	            "type": "Land"
+	        }
+	    },
+	    {
+	        "name": "Searing Cut",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Searing Cut.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wizened Dragonkeeper",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Shaman ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Wizened Dragonkeeper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Enlightened Asura",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Devil Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Enlightened Asura.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Immortal Fenghuang",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Phoenix Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Immortal Fenghuang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Whirlpool Sword Style",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Whirlpool Sword Style.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Diyu's First Advance",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Diyu's First Advance.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Furious Chaofeng",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Bird Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Furious Chaofeng.png?raw=true"
+	        },
+	        "printed names": {
+	            "en": "Furious Chaofeng"
+	        },
+	        "back": {
+	            "name": "Blossoms of Flame",
+	            "printed_names": {
+	                "en": "Blossoms of Flame"
+	            },
+	            "image_uris": {
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Blossoms of Flame.png?raw=true"
+	            },
+	            "type": "Path"
+	        }
+	    },
+	    {
+	        "name": "Revelation Dance",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Revelation Dance.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Joyful Drowner",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Creature — Elf Performer ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/Joyful Drowner.png?raw=true"
+	        }
+	    }
+	]
+	[RareSlot(1)]
+		5 Journey to Enlightenment
+		5 Wandering Immortal
+		5 Heavenly Law Student
+		5 Swordcraft Immortal
+		5 Western Deity
+		5 Abbot of Daoling
+		5 Celestial Tianlong
+		5 Immortals Hand
+		5 Ambitious Carp
+		5 Protection of Fuwen
+		5 Up-Down Sorcerer
+		5 Guardian Yazi
+		5 Litigious Bian // Bians Damages
+		5 Speak With Songbirds
+		5 Wise Shenlong
+		5 Bearded Sea Serpent
+		5 Arrogant Retainer
+		5 Chivalry of Madness
+		5 Mastering Sorcery
+		5 Whispering Servant
+		5 Exhausting Effort
+		5 Yaogui Burst
+		5 Creeping Yama
+		5 Cunning Dilong
+		5 Lotus Seeker
+		5 River and Lake Society
+		5 Wukongs Rampage
+		5 Camouflaged Taotie
+		5 Meditation on Realms
+		5 Mighty Jiaolong
+		5 Twilight Lutist
+		5 Cloudeater Hydra
+		5 Sword of the Tyrant-King
+		5 Wukong's Riding Cloud
+		5 Big-Small Staff
+		5 Tricksters Mask
+		5 Incantation Mandala
+		5 Given Permission to Live
+		5 Meru Mountain Ascetic
+		5 Opal Peacock
+		5 Tortoise-Style Warrior
+		5 Sword Siblings
+		5 Lunar Chevalier
+		5 Thunderbolt Twins
+		5 Shores of Lake Shenye
+		5 Cenotaph of Luobin
+		5 Guimei Factory
+		5 Gate to Tianhai
+		5 Chihou Border Town
+		5 Searing Cut
+		5 Wizened Dragonkeeper
+		5 Enlightened Asura
+		5 Immortal Fenghuang
+		5 Whirlpool Sword Style
+		5 Diyu's First Advance
+		5 Furious Chaofeng
+		5 Revelation Dance
+		5 Joyful Drowner
+	[UncommonSlot(3)]
+		10 Qinzai Overlook
+		10 Cliffside Temple
+		10 Glacial Temple
+		10 Golden Temple
+		10 Grotto Temple
+		10 Lagoon Temple
+		10 Zhiwan Overlook
+		10 Kueizimu Overlook
+		10 Fengyong Overlook
+		10 Biansha Overlook
+		10 Calligraphers Triumph
+		10 Herald of Immortals
+		10 Dreamfletch Liang
+		10 Shoot Down the Suns
+		10 Windspeaker of the Steppe
+		10 Zhuyin Crow-Eater
+		10 Tolgod-Ul Archer
+		10 Huifu Lurker
+		10 Hound of Yama
+		10 Tortured Courtier
+		10 Tyrant-Kings Agent
+		10 Sword Dreamer
+		10 Daoling Alchemist
+		10 Dragon-Staff Mendicant
+		10 Front-Line Footman
+		10 Garuda Skycaptain
+		10 Light-Footed Zeren
+		10 Blademaster of Qinzai
+		10 Xiyin Enchantress
+		10 Monastic Seclusion
+		10 Secret Spear Arts
+		10 Peach Garden Encounter
+		10 Heavenly Messenger
+		10 Qiuniu Under the Bridge
+		10 Roaring Suanni
+		10 Frostbow Liang
+		10 Counsel of the Waves
+		10 Floodbind
+		10 Secret Fan Arts
+		10 Pull into Water
+		10 Meditation Riddle
+		10 Huangjiu Thief
+		10 Implacable Xia
+		10 One-Eyed Sisters
+		10 Heir of the Pearl
+		10 Demean
+		10 Return From Yellow Springs
+		10 Secret Death Arts
+		10 Witchtongue Vampire
+		10 Gaze Into the Strange
+		10 Mercenary Swordsman
+		10 Dragonbreath Conjurer
+		10 Thunderfletcher
+		10 Celestial Dancer
+		10 Western Sands Nomad
+		10 Stoke the Inner Furnace
+		10 Secret Sword Arts
+		10 City-Crushing Staff
+		10 Flickering Candle Meditation
+		10 Beastmask Priestess
+		10 Harmonic Summoner
+		10 Snowtread Tigress
+		10 Jade-Edge Guardian
+		10 Liang Herbalist
+		10 Ghostwolf Summons
+		10 Cultivated Terraces
+		10 Secret Battle Arts
+		10 Seek the Horizon
+		10 Stalk Through Shadows
+		10 Dragonfang Dagger
+		10 Evokers Wheel
+		10 Ancient Powergem
+		10 Palace Dungeon
+		10 Trade Fleet
+		10 Hathi Auramancer
+		10 Minister of Lies
+		10 Gleaming Meditation
+		10 Guqin Maestro
+		10 Hawkbrother Archer
+		10 Yunhai Shaman
+		10 Dragon Egg Festival
+		10 Viperskull
+		10 Esteemed Tactician
+		10 Frostworker
+		10 Immortal Scholar
+	[CommonSlot(10)]
+		15 Strategists Saber
+		15 Cloud Scheduling Bureau
+		15 Heavenly Abundance Service
+		15 Fortune Distribution Office
+		15 Calamity Logistics Authority
+		15 Internal Devil Affairs
+		15 Qinzai Cloudchaser
+		15 Storm Cultivation
+		15 Qinzai Halberdier
+		15 Wushu Swordsman
+		15 Tiger Shifu
+		15 Celestial Recruits
+		15 Sealkeeper
+		15 Vanara Guide
+		15 Xiyin Monk
+		15 Daoling Falconer
+		15 Qilin Advisor
+		15 Lonely Herbalist
+		15 Beckon Through Gates
+		15 Trained Together
+		15 Eagle Claw Training
+		15 Martial Brotherhood
+		15 Summoned to Court
+		15 Tiger Style
+		15 Masked Examiner
+		15 Professional Mourner
+		15 Shen Slayer
+		15 Nanhai Assassin
+		15 Cackling Heiress
+		15 Heedless Conjuress
+		15 Yama Minister
+		15 Corrupt Minister
+		15 Flesh Alchemist
+		15 Widowhunter
+		15 Efface
+		15 Escape from Diyu
+		15 Viper Style
+		15 Feed the Crows
+		15 Radiant Fiendish Claw
+		15 Grim Maneuver
+		15 Music For the Departed
+		15 Cruel Edict
+		15 Heavenly Nectar Harvest
+		15 Windstep Xia
+		15 Cloudfletch Sentinel
+		15 Dragonseeker Liang
+		15 Four-Eyed Chiwen
+		15 Liang Hierolune
+		15 Mirrorthrower Liang
+		15 Torrential Baxia
+		15 Cranewing Liang
+		15 Zhiwan Lurker
+		15 Quelling Blade
+		15 Sink Into Silence
+		15 Captivating Chord
+		15 Scrolls of the Ages
+		15 Waveshaping
+		15 Blackout
+		15 Crane Style
+		15 Eight Directions Portal
+		15 Emptiness Technique
+		15 Veiled in Light
+		15 Harsh Wisdom
+		15 Howling Pulao
+		15 Spearpoint Cavalry
+		15 Murderous Liang
+		15 Tamed Bixi
+		15 Vanara Staff Master
+		15 Vanara Warrior
+		15 Drunken Poet
+		15 Flameshaper Ascetic
+		15 Untested Warrior
+		15 Hermit Composer
+		15 Charm Barrage
+		15 Crushing Fist
+		15 Disturb a Dragon
+		15 Lius Dragon Standard
+		15 Dragon Style
+		15 Disassemble
+		15 Ember Whip
+		15 Trouble in the Teahouse
+		15 Thrashing Coil Symphony
+		15 Fiery Pearl
+		15 Constrictor Maiden
+		15 Wandering Piper
+		15 Ebonfang Wurm
+		15 Nectarbelly
+		15 Arduous Contest
+		15 Peacock Spring
+		15 Meet the Mighty
+		15 Spider Style
+		15 Adventurous Impulse
+		15 Release Attachment
+		15 Rejuvenating Infusion
+		15 Kueizimu Piper
+		15 Deep-Forest Naga
+		15 Nomadic Wagh
+		15 Ananta Serpent
+		15 Leafspinner Liang
+		15 Foxface Liang
+		15 Zhulin Slayer
+		15 Time for Tea
+		15 Aim High
+		15 Centipede Rite
+		15 Zenith Ascendant
+		15 Steel Swordswoman
+		15 Relic Giant
+		15 Mechanical Ogre
+		15 Fortune Cards
+		15 Zhiwan Bay Jelly
+		15 Icepeak Explorer
+		15 Saltspray Fisher
+		15 Moonsilk Scoundrel
+		15 Stoneburl Rider
+		15 Feastcraft Painter
+	[BasicSlot(1)]
+	
