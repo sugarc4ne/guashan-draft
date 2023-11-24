@@ -2163,22 +2163,22 @@
 	        }
 	    },
 	    {
-	        "name": "Litigious Bi An",
+	        "name": "Litigious Bi-an",
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Snake Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Litigious Bi An.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Litigious Bi-an.png?raw=true"
 	        },
 	        "printed names": {
-	            "en": "Litigious Bi An"
+	            "en": "Litigious Bi-an"
 	        },
 	        "back": {
-	            "name": "Judged Inferior",
+	            "name": "Watery Sentence",
 	            "printed_names": {
-	                "en": "Judged Inferior"
+	                "en": "Watery Sentence"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Judged Inferior.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Watery Sentence.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -2743,7 +2743,7 @@
 		5 Protection of Fuwen
 		5 Up-Down Sorcerer
 		5 Guardian Yazi
-		5 Litigious Bi An
+		5 Litigious Bi-an
 		5 Speak With Songbirds
 		5 Wise Shenlong
 		5 Bearded Sea Serpent
