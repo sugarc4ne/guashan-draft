@@ -2827,6 +2827,51 @@
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Nimshan the Dauntless.png?raw=true"
 	        }
+	    },
+	    {
+	        "name": "Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Swamp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Forest.png?raw=true"
+	        }
 	    }
 	]
 	[RareSlot(1)]
@@ -3102,4 +3147,9 @@
 		15 Widowhunter
 		15 Eight Directions Portal
 	[BasicSlot(1)]
+		10 Plains
+		10 Island
+		10 Swamp
+		10 Mountain
+		10 Forest
 	
