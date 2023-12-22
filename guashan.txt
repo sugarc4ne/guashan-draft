@@ -91,12 +91,12 @@
 	            "en": "Wushu Swordsman"
 	        },
 	        "back": {
-	            "name": "Swordcraft Ascension",
+	            "name": "Swordsman's Spirit",
 	            "printed_names": {
-	                "en": "Swordcraft Ascension"
+	                "en": "Swordsman's Spirit"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Swordcraft Ascension.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Swordsman's Spirit.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -240,7 +240,7 @@
 	        "name": "Martial Brotherhood",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
-	        "type": "Instant",
+	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Martial Brotherhood.png?raw=true"
 	        }
@@ -378,15 +378,6 @@
 	        "type": "Creature — Demon Alchemist ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Flesh Alchemist.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Widowhunter",
-	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Vampire ",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Widowhunter.png?raw=true"
 	        }
 	    },
 	    {
@@ -651,15 +642,6 @@
 	        }
 	    },
 	    {
-	        "name": "Eight Directions Portal",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Eight Directions Portal.png?raw=true"
-	        }
-	    },
-	    {
 	        "name": "Emptiness Technique",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
@@ -690,7 +672,7 @@
 	        "name": "Howling Pulao",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Bat Dragon ",
+	        "type": "Creature — Hound Dragon ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Howling Pulao.png?raw=true"
 	        }
@@ -887,7 +869,7 @@
 	    {
 	        "name": "Thrashing Coil Symphony",
 	        "rarity": "common",
-	        "mana_cost": "{4}{R}",
+	        "mana_cost": "{3}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Thrashing Coil Symphony.png?raw=true"
@@ -918,15 +900,6 @@
 	        "type": "Creature — Human Monk ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Wandering Piper.png?raw=true"
-	        }
-	    },
-	    {
-	        "name": "Ebonfang Wurm",
-	        "rarity": "common",
-	        "mana_cost": "{4}{G}",
-	        "type": "Creature — Wurm ",
-	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Ebonfang Wurm.png?raw=true"
 	        }
 	    },
 	    {
@@ -1483,12 +1456,12 @@
 	            "en": "Heavenly Messenger"
 	        },
 	        "back": {
-	            "name": "Messages from Heaven",
+	            "name": "Messenger's Duty",
 	            "printed_names": {
-	                "en": "Messages from Heaven"
+	                "en": "Messenger's Duty"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Messages from Heaven.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Messenger's Duty.png?raw=true"
 	            },
 	            "type": "Enchantment — Aura "
 	        }
@@ -2157,7 +2130,7 @@
 	        "name": "Guardian Yazi",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{U}",
-	        "type": "Creature — Eel Wolf Dragon ",
+	        "type": "Creature — Wolf Dragon ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Guardian Yazi.png?raw=true"
 	        }
@@ -2165,7 +2138,7 @@
 	    {
 	        "name": "Litigious Bian",
 	        "mana_cost": "{2}{U}{U}",
-	        "type": "Creature — Snake Fox Dragon ",
+	        "type": "Enchantment Creature — Wolf Dragon ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Litigious Bian.png?raw=true"
 	        },
@@ -2221,12 +2194,12 @@
 	            "en": "Arrogant Retainer"
 	        },
 	        "back": {
-	            "name": "To the Tyrant Court",
+	            "name": "To the Tyrant's Court",
 	            "printed_names": {
-	                "en": "To the Tyrant Court"
+	                "en": "To the Tyrant's Court"
 	            },
 	            "image_uris": {
-	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/To the Tyrant Court.png?raw=true"
+	                "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/To the Tyrant's Court.png?raw=true"
 	            },
 	            "type": "Path"
 	        }
@@ -2325,12 +2298,12 @@
 	        }
 	    },
 	    {
-	        "name": "Wukongs Rampage",
+	        "name": "Wukong's Rampage",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Wukongs Rampage.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Wukong's Rampage.png?raw=true"
 	        }
 	    },
 	    {
@@ -2388,12 +2361,12 @@
 	        }
 	    },
 	    {
-	        "name": "Wukong's Riding Cloud",
+	        "name": "Riding Cloud",
 	        "rarity": "rare",
 	        "mana_cost": "{2}",
-	        "type": "Legendary Artifact — Equipment ",
+	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Wukong's Riding Cloud.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Riding Cloud.png?raw=true"
 	        }
 	    },
 	    {
@@ -2406,12 +2379,12 @@
 	        }
 	    },
 	    {
-	        "name": "Tricksters Mask",
+	        "name": "Trickster Mask",
 	        "rarity": "rare",
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Tricksters Mask.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Trickster Mask.png?raw=true"
 	        }
 	    },
 	    {
@@ -2682,18 +2655,18 @@
 	        }
 	    },
 	    {
-	        "name": "Diyu's First Advance",
+	        "name": "Diyus First Advance",
 	        "rarity": "rare",
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Diyu's First Advance.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Diyus First Advance.png?raw=true"
 	        }
 	    },
 	    {
 	        "name": "Furious Chaofeng",
 	        "mana_cost": "{3}{R}{R}",
-	        "type": "Creature — Bird Antelope Dragon ",
+	        "type": "Creature — Bird Dragon ",
 	        "image_uris": {
 	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Furious Chaofeng.png?raw=true"
 	        },
@@ -2721,12 +2694,138 @@
 	        }
 	    },
 	    {
-	        "name": "Joyful Drowner",
+	        "name": "Tidesinker Celebrant",
 	        "rarity": "rare",
 	        "mana_cost": "{W}{B}",
-	        "type": "Creature — Elf Performer ",
+	        "type": "Creature — Elf Monk ",
 	        "image_uris": {
-	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Joyful Drowner.png?raw=true"
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Tidesinker Celebrant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ebonfang Wurm",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Ebonfang Wurm.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Widowhunter",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Widowhunter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eight Directions Portal",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Eight Directions Portal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The One-Sandal Monk",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}",
+	        "type": "Legendary Creature — Human Spirit Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/The One-Sandal Monk.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sunbow Archer",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Archer ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Sunbow Archer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Heart of the Scrolls",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Heart of the Scrolls.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Liang Distorter",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Elf Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Liang Distorter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Uzoma, Planar Explorer",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Planeswalker — Uzoma ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Uzoma, Planar Explorer.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Elephant Tender",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Monk ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Elephant Tender.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yanling From the Sky",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Planeswalker — Yanling ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Yanling From the Sky.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sidereal Strategist",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Dragon Advisor ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Sidereal Strategist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Smugglers District",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Smugglers District.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Temple Crusher",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Temple Crusher.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nimshan the Dauntless",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}{W}",
+	        "type": "Planeswalker — Nimshan ",
+	        "image_uris": {
+	            "en": "https://github.com/sugarc4ne/guashan-draft/blob/main/guashan-files/Nimshan the Dauntless.png?raw=true"
 	        }
 	    }
 	]
@@ -2757,16 +2856,16 @@
 		5 Cunning Dilong
 		5 Lotus Seeker
 		5 River and Lake Society
-		5 Wukongs Rampage
+		5 Wukong's Rampage
 		5 Camouflaged Taotie
 		5 Meditation on Realms
 		5 Mighty Jiaolong
 		5 Twilight Lutist
 		5 Cloudeater Hydra
 		5 Sword of the Tyrant-King
-		5 Wukong's Riding Cloud
+		5 Riding Cloud
 		5 Big-Small Staff
-		5 Tricksters Mask
+		5 Trickster Mask
 		5 Incantation Mandala
 		5 Given Permission to Live
 		5 Meru Mountain Ascetic
@@ -2785,10 +2884,21 @@
 		5 Enlightened Asura
 		5 Immortal Fenghuang
 		5 Whirlpool Sword Style
-		5 Diyu's First Advance
+		5 Diyus First Advance
 		5 Furious Chaofeng
 		5 Revelation Dance
-		5 Joyful Drowner
+		5 Tidesinker Celebrant
+		1 The One-Sandal Monk
+		1 Sunbow Archer
+		1 Heart of the Scrolls
+		1 Liang Distorter
+		1 Uzoma, Planar Explorer
+		1 Elephant Tender
+		1 Yanling From the Sky
+		1 Sidereal Strategist
+		1 Smugglers District
+		1 Temple Crusher
+		1 Nimshan the Dauntless
 	[UncommonSlot(3)]
 		10 Qinzai Overlook
 		10 Cliffside Temple
@@ -2909,7 +3019,6 @@
 		15 Yama Minister
 		15 Corrupt Minister
 		15 Flesh Alchemist
-		15 Widowhunter
 		15 Efface
 		15 Escape from Diyu
 		15 Viper Style
@@ -2935,7 +3044,6 @@
 		15 Waveshaping
 		15 Blackout
 		15 Crane Style
-		15 Eight Directions Portal
 		15 Emptiness Technique
 		15 Veiled in Light
 		15 Harsh Wisdom
@@ -2961,7 +3069,6 @@
 		15 Fiery Pearl
 		15 Constrictor Maiden
 		15 Wandering Piper
-		15 Ebonfang Wurm
 		15 Nectarbelly
 		15 Arduous Contest
 		15 Peacock Spring
@@ -2991,5 +3098,8 @@
 		15 Moonsilk Scoundrel
 		15 Stoneburl Rider
 		15 Feastcraft Painter
+		15 Ebonfang Wurm
+		15 Widowhunter
+		15 Eight Directions Portal
 	[BasicSlot(1)]
 	
